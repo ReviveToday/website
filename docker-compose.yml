@@ -1,0 +1,12 @@
+version: '3.6'
+services:
+  www:
+    image: docker.io/jekyll/jekyll:latest
+    command: jekyll serve
+    ports:
+    - 4000:4000
+    environment:
+      JEKYLL_UID: 1000
+      JEKYLL_GID: 1000
+    volumes:
+    - ".:/srv/jekyll"

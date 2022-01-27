@@ -1,0 +1,40 @@
+title: ReviveToday
+tagline: Showing Love to the Console Legends
+email: admin@revive.today
+description: >-
+  We aim to provide the latest information, tweaks, custom modifications and
+  guides for the now broad range of retro consoles and handhelds.
+baseurl: ""
+url: "https://beta.revive.today"
+permalink: /blog/:title:output_ext
+
+include: ['_redirects']
+exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock', 'Gemfile']
+
+theme: minima
+minima:
+  date_format: "%-d %B %Y"
+header_pages:
+  - projects/index.md
+  - blog/index.html
+  - guides.html
+
+sass:
+  style: compressed
+
+disqus:
+  shortname: retro-playstation
+  show_policy: true
+
+paginate: 5
+paginate_path: "/blog/page/:num/"
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+plugins:
+  - jekyll-feed
+  - jemoji

@@ -1,0 +1,6 @@
+tasks:
+  - init: |
+      find . -type d -exec chmod 777 {} \;
+      docker-compose pull
+    command: |
+      docker-compose up
