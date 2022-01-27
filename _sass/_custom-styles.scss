@@ -1,0 +1,84 @@
+.rt-alert {
+	padding: 1em;
+	background-color: #E7E7E7;
+	border-bottom: solid 4px #8E8E8E;
+	color: #333;
+
+	a {
+		color: #000;
+		text-decoration: underline;
+	}
+
+	&.info {
+		background-color: #66CCFF;
+		border-bottom-color: #3E94C0;
+	}
+	
+	&.info::before {
+		font-family: "Font Awesome 5 Free";
+		font-weight: 900;
+		content: "\f05a";
+		margin-right: 10px;
+	}
+
+	&.rt-alert.success {
+		background-color: #339900;
+		border-bottom-color: #205F00;
+		color: #FFF;
+	}
+	
+	&.rt-alert.success::before {
+		font-family: "Font Awesome 5 Free";
+		font-weight: 900;
+		content: "\f058";
+		margin-right: 10px;
+	}
+	
+	&.rt-alert.warning {
+		background-color: #FFCC00;
+		border-bottom-color: #C69E00;
+	}
+	
+	&.rt-alert.warning::before {
+		font-family: "Font Awesome 5 Free";
+		font-weight: 900;
+		content: "\f071";
+		margin-right: 10px;
+	}
+	
+	&.rt-alert.error,
+	&.rt-alert.danger {
+		background-color: #CC3300;
+		border-bottom-color: #761D00;
+		color: #dcdcdc;
+	}
+	
+	&.rt-alert.error a,
+	&.rt-alert.danger a {
+		color: #fff;
+	}
+	
+	&.rt-alert.error::before,
+	&.rt-alert.danger::before {
+		font-family: "Font Awesome 5 Free";
+		font-weight: 900;
+		content: "\f06a";
+		margin-right: 10px;
+	}
+}
+
+.rt-button {
+	background-color: #138e96 !important;
+	border-bottom: solid .2em #0b4e53;
+	text-shadow: 0 1px 1px #000;
+	border-radius: 0;
+	margin: 20px 0;
+	display: inline-block;
+	padding: 10px 20px;
+	color: #FFF;
+
+	a {
+		color: #FFF;
+		text-decoration: none;
+	}
+}
