@@ -3,9 +3,8 @@ title: The PS2 Homebrew Essentials
 layout: page
 ---
 
-{:refdef: class="rt-alert warning"}
 This page is under construction!
-{: refdef}
+{: .rt-alert .warning}
 
 With so many applications and so much varied resources, it can be easy miss what you can squeeze out of homebrew with your PS2. Lets discuss the essentials that need to be running on your beast!
 

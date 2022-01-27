@@ -7,9 +7,8 @@ So you got your console, got your controller, game and power. You’re not going
 
 So what are your options when it comes to displaying the PS2? Here we will cover a few options you have to get the best out of your PS2.
 
-{:refdef: class="rt-alert info"}
 Just want to see **HDMI** options? [**Skip to it here**](#cable-hdmi).
-{: refdef}
+{: .rt-alert .info}
 
 ## Standard Definition TV
 

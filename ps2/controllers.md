@@ -9,9 +9,8 @@ Consoles are barely touched. You’ll press the power button to turn it on, mayb
 
 If you ask the question “which controller should I buy?”, _everyone_ will say the official controller. Nothing can top the Dualshock 2 controller that started it all, but sometimes that is not an option. Revive Today will try to cover any controller we obtain to give recommendations what to look for when buying a controller.
 
-{:refdef: class="rt-alert info"}
 These are based on experiences with the controllers we obtain. Be aware your experience may differ.
-{: refdef}
+{: .rt-alert .info}
 
 ## Sony Dualshock 2 Controller
 
@@ -46,9 +45,8 @@ This reasonably priced device from Brook allows you to synchronise a PS(3/4) con
 
 ## TPFOON Wireless Controller
 
-{:refdef: class="rt-alert warning"}
 This controller is still being tested
-{: refdef}
+{: .rt-alert .warning}
 
 * ✅ Same shape and layout as the official controller.
 * ✅ Wireless connectivity.
