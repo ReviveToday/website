@@ -35,6 +35,7 @@ A slim console and beyond is not compatible with _this_ mod, since the network a
 Ensure you can connect your IDE drive to your computer, either through a USB converter or by using a ATA connection in your computer (and maybe consider buying a new one). I would also recommend extracting the three tools above into one directory, just so you know where they are. The two programs needed are _portable_ (if you downloaded the portable copy of HDDRC), so no installation will be needed.
 
 ### Connect drive and open WinHIIP
+{: #winhiip }
 
 ![WinHIIP program reporting no drive has been selected](https://revive.today/wp-content/uploads/2016/09/Screen-Shot-2016-09-04-at-21.32.58.png)
 {: .article-image }
