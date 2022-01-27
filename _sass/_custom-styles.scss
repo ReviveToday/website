@@ -82,3 +82,15 @@
 		text-decoration: none;
 	}
 }
+
+.article-image {
+	text-align: center;
+
+	img {
+		max-width: 600px;
+
+		@media screen and (max-width: 600px) {
+			width: 100%;
+		}
+	}
+}

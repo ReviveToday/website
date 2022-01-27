@@ -20,8 +20,8 @@ The console was a powerhouse, with the big limitation of the console being the s
 
 * [Softmodding]({% link ps2/softmodding.md %}) – Come into the wonderful world of PS2 softmodding. We will explain the benefits and the process of joining this brilliant and actually simple club!
 * [Homebrew Essentials]({% link ps2/apps/index.md %}) – Got your sweet setup, now get your super sweet homebrew must-haves. All for the low low price of nothing!
-* [FreeMCBoot Tutorial](#) – If you already have a modded system to hand, we show how you can dish out some FreeMCBoot Memory Cards.
-* [FreeHDBoot Tutorial](#) – Guide to installing FreeHDBoot on the original PlayStation 2, allowing you to run homebrew customisations without modifying the hardware.
+* [FreeMCBoot Tutorial]({% link ps2/freemcboot-tutorial.md %}) – If you already have a modded system to hand, we show how you can dish out some FreeMCBoot Memory Cards.
+* [FreeHDBoot Tutorial]({% link ps2/freehdboot-tutorial.md %}) – Guide to installing FreeHDBoot on the original PlayStation 2, allowing you to run homebrew customisations without modifying the hardware.
 
 ## Communities
 
