@@ -3,10 +3,14 @@ An ongoing project to convert the [ReviveToday website](https://revive.today) to
 
 ## Still Todo
 
-* All of PlayStation 3.
-* All of PlayStation Vita.
-* Vita CFW wizard.
-* Xperia Play.
-* Dreamcast.
-* Nintendo DS.
-* Free PC Games.
+* [x] PlayStation 2.
+* [ ] PlayStation 3.
+* [x] PlayStation Portable.
+* [ ] PlayStation Vita.
+* [ ] PSP CFW wizard.
+* [ ] Xperia Play.
+* [ ] Dreamcast.
+* [ ] Nintendo DS.
+* [ ] Free PC Games.
+* [ ] Legal & Privacy.
+* [ ] Contact.
