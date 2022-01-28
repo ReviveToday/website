@@ -15,12 +15,12 @@ In the later half of 2014, the PSP legacy came to an end when the console was of
 
 ### Information
 
-* [What to Buy](https://revive.today/psp/what-to-buy/) – Decided on buying a PSP, but with no idea which one to choose from? We cover some basic pointers to help you choose your PSP model.
-* [Essential Applications](https://revive.today/psp/apps/) – Everything you could possibly need to get the best out of your PSP.
-* [Official Firmware Downloads](https://revive.today/psp/firmware/) – Here you can find a collection of official firmware downloads and locations for all versions of the PlayStation Portable, ready to upgrade your PSP!
-* [Battery](https://revive.today/psp/battery/) – PSP battery letting your portable powerhouse down? Here are some potential solutions to bring back the ‘portable’ in PlayStation Portable.
-* [Free DLC Downloads](https://revive.today/psp/dlc/) – Now PSN has closed for the PSP, it is increasingly difficult to find the DLC for the games we used to enjoy. Not any more, with our free DLC archives!
-* [Hardware Mods](https://revive.today/psp/hardware-mods/) – Fancy making your PSP truly unique? Here we list some guides for making your PSP look amazing! **For hardcore users only**.
+* [What to Buy]({% link psp/what-to-buy.md %}) – Decided on buying a PSP, but with no idea which one to choose from? We cover some basic pointers to help you choose your PSP model.
+* [Essential Applications]({% link psp/essential-applications.md %}) – Everything you could possibly need to get the best out of your PSP.
+* [Official Firmware Downloads]({% link psp/firmware.md %}) – Here you can find a collection of official firmware downloads and locations for all versions of the PlayStation Portable, ready to upgrade your PSP!
+* [Battery]({% link psp/battery.md %}) – PSP battery letting your portable powerhouse down? Here are some potential solutions to bring back the ‘portable’ in PlayStation Portable.
+* [Free DLC Downloads]({% link psp/dlc.md %}) – Now PSN has closed for the PSP, it is increasingly difficult to find the DLC for the games we used to enjoy. Not any more, with our free DLC archives!
+* [Hardware Mods]({% link psp/hardware-mods.md %}) – Fancy making your PSP truly unique? Here we list some guides for making your PSP look amazing! **For hardcore users only**.
 
 ### Homebrew
 
