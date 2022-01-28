@@ -3,6 +3,11 @@ title: What to Buy
 layout: page
 ---
 
+<div class="container rt-columncase">
+<div class="row align-items-start">
+
+<div class="col" markdown="1">
+
 ## 1000
 
 ![PSP 1000 in Piano Black](https://revive.today/wp-content/uploads/2018/04/Psp-1000-1024x581.jpg)
@@ -16,6 +21,8 @@ layout: page
 * Screen Artefacts: Ghosting
 * Battery: 3.6 V 1800 mAh, **removable**
 * First OS: 1.00
+
+</div><div class="col" markdown="1">
 
 ## 2000
 
@@ -31,6 +38,8 @@ layout: page
 * Battery: 3.6 V 1200 mAh, **removable**
 * First OS: 3.60
 
+</div><div class="col" markdown="1">
+
 ## 3000
 
 ![PSP 3000 in Silver](https://revive.today/wp-content/uploads/2018/04/PSP-3000-Silver-1024x565.jpg)
@@ -45,6 +54,8 @@ layout: page
 * Battery: 3.6 V 1200 mAh, **removable**
 * First OS: 4.20
 
+</div><div class="col" markdown="1">
+
 ## Go
 
 ![PSP Go in Piano Black](https://revive.today/wp-content/uploads/2018/04/PSP-Go-FL-Open-1024x954.jpg)
@@ -58,6 +69,11 @@ layout: page
 * Screen Artefacts: **None**
 * Battery: 3.6 V, inbuilt
 * First OS: 5.70
+
+</div>
+
+</div>
+</div>
 
 Positives are in **bold**. Information sourced from [Wikipedia](https://en.wikipedia.org/wiki/PlayStation_Portable). Clarification is being collected on other aspects.
 
