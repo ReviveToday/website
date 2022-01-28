@@ -4,7 +4,7 @@ An ongoing project to convert the [ReviveToday website](https://revive.today) to
 ## Still Todo
 
 * [x] PlayStation 2.
-* [ ] PlayStation 3.
+* [x] PlayStation 3.
 * [x] PlayStation Portable.
 * [ ] PlayStation Vita.
 * [ ] PSP CFW wizard.
