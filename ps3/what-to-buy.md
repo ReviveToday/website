@@ -4,6 +4,7 @@ layout: page
 ---
 
 This article is still **undergoing quality control** due to missing information – be advised things may change.
+{: .rt-alert .warning}
 
 <div class="container rt-columncase">
 <div class="row align-items-start">
@@ -64,6 +65,7 @@ Corrugated top shell, flat PS3 logo, face-side tiny buttons, pancake.
 _\* Heavily dependant on the phat console generation. First generation ( 4 USB ports) has the PS2 GPU, enabling full hardware emulation. Second generation could run PS2 games via software rendering, and all other generations dropped PS2 emulation for **PS2 classics**._
 
 Can’t find the drive size for you? **Don’t bother**, [replace it **yourself**](https://www.ifixit.com/Guide/PlayStation+3+Slim+Hard+Drive+Replacement/3223)!
+{: .rt-alert .info}
 
 ## 🤔 Which Should I Buy?
 
