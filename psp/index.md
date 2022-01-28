@@ -24,7 +24,7 @@ In the later half of 2014, the PSP legacy came to an end when the console was of
 
 ### Homebrew
 
-* [Custom Firmware Guide](https://revive.today/psp/cfw/) – The key to Pandora’s box. Find out the benefits of using CFW and what you can achieve with your newly unlocked PlayStation Portable!
+* [Custom Firmware Guide]({% link psp/cfw/index.md %}) – The key to Pandora’s box. Find out the benefits of using CFW and what you can achieve with your newly unlocked PlayStation Portable!
 
 ## External Guides
 
