@@ -120,4 +120,4 @@ On reboot, go back to **System Information** and you should now have **PSP 6.61 
 
 ## Should I use Infinity instead of IPL patching?
 
-It’s your choice, but if you have an original PSP you don’t lose any functionality by going through the traditional permanent method. Personally I would recommend using IPL flashing [if your device is supported](https://revive.today/psp/wizard/).
+It’s your choice, but if you have an original PSP you don’t lose any functionality by going through the traditional permanent method. Personally I would recommend using IPL flashing [if your device is supported]({% link psp/wizard.html %}).

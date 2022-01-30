@@ -32,7 +32,7 @@ All devices (but Street) are capable of custom firmware, but not all of them are
 	<div class="row align-items-start">
 		<div class="col">
             <div>
-				<p class="rt-button"><a href="https://revive.today/psp/wizard/">Custom firmware wizard</a></p>
+				<p class="rt-button"><a href="{% link psp/wizard.html %}">Custom firmware wizard</a></p>
 			</div>
             <p><a href="https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html">Original Hackinformer version</a></p>
         </div>

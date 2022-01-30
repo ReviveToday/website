@@ -1,0 +1,100 @@
+---
+title: Custom Firmware Wizard
+layout: page
+---
+
+<p>This quick tool will help make sure you choose the right version custom firmware for your PSP. It's generally recommended to be on the 6.XX channel of updates, mostly either 6.60 or 6.61.</p>
+
+<p>For <strong>PSP 2000</strong> models, you can find the date code in the battery compartment sticker with the battery removed. This will be two characters written above the serial number with the words <strong>date code</strong> next to them.</p>
+
+<hr>
+
+<div class="rtwizz mb-3">
+	<label for="rtwiz1" class="form-label">Select your Model</label>
+	<select id="rtwiz1" class="form-select">
+		<option value="0">Select...</option>
+		<option value="1">PSP 1000</option>
+		<option value="2">PSP 2000</option>
+		<option value="3">PSP 3000</option>
+		<option value="G">PSP Go!</option>
+		<option value="E">PSP Street</option>
+	</select>
+</div>
+
+<div class="rtwizz p2kc mb-3" style="display: none;">
+	<label for="rtwiz2" class="form-label">Does your date code end in 8C?</label>
+	<select id="rtwiz2" class="form-select">
+		<option value="o0">Select...</option>
+		<option value="o1">Yes</option>
+		<option value="o2">No</option>
+	</select>
+</div>
+
+<div class="SF1 mt-5" style="display: none;">
+	<p class="article-image">
+		<img src="/assets/img/PSP-1000.jpeg" />
+	</p>
+	<h2>6.60 and 6.61 permanent custom firmware available!</h2>
+	<p>Your PSP 1000 is capable of installing permanent custom firmware without the need for Infinity. Please check out our guide on installing custom firmware here!</p>
+	<div class="text-center">
+		<p class="rt-button"><a href="{% link psp/cfw/pro.md %}">Pro-C Custom Firmware</a></p>
+	</div>
+</div>
+
+<div class="SF2s" style="display: none;">
+	<p class="article-image">
+		<img src="/assets/img/PSP-2000.jpeg" />
+	</p>
+	<h2>6.60 and 6.61 permanent custom firmware available!</h2>
+	<p>Your PSP 2000 (first generation) is capable of installing permanent custom firmware without the need for Infinity. Please check out our guide on installing custom firmware here!</p>
+	<div class="text-center">
+		<p class="rt-button"><a href="{% link psp/cfw/pro.md %}">Pro-C Custom Firmware</a></p>
+	</div>
+</div>
+
+<div class="SF2" style="display: none;">
+	<p class="article-image">
+		<img src="/assets/img/PSP-2000.jpeg" />
+	</p>
+	<h2>6.60 and 6.61 permanent custom firmware available via Infinity</h2>
+	<p>Your PSP 2000 (second generation) is capable of permanent custom firmware when installed via Infinity! You can check out our guide here.</p>
+	<div class="text-center">
+		<p class="rt-button"><a href="{% link psp/infinity.md %}">Infinity Custom Firmware</a></p>
+	</div>
+</div>
+
+<div class="SF3" style="display: none;">
+	<p class="article-image">
+		<img src="/assets/img/PSP-3000-Silver.jpeg" />
+	</p>
+	<h2>6.60 and 6.61 permanent custom firmware available via Infinity</h2>
+	<p>Your PSP 3000 is capable of permanent custom firmware when installed via Infinity! You can check out our guide here.</p>
+	<div class="text-center">
+		<p class="rt-button"><a href="{% link psp/infinity.md %}">Infinity Custom Firmware</a></p>
+	</div>
+</div>
+
+<div class="SFG" style="display: none;">
+	<p class="article-image">
+		<img src="/assets/img/PSP-Go.jpeg" />
+	</p>
+	<h2>6.60 and 6.61 permanent custom firmware available via Infinity</h2>
+	<p>Your PSP Go is capable of permanent custom firmware when installed via Infinity! You can check out our guide here.</p>
+	<p>Make sure to adjust the steps for PSP Go, as often the files needed during setup are different.</p>
+	<div class="text-center">
+		<p class="rt-button"><a href="{% link psp/infinity.md %}">Infinity Custom Firmware</a></p>
+	</div>
+</div>
+
+<div class="SFE" style="display: none;">
+	<p class="article-image">
+		<img src="/assets/img/PSP-Street.png" />
+	</p>
+	<h2>6.60 and 6.61 permanent custom firmware available via Infinity</h2>
+	<p>Your PSP Street (E100X) is capable of permanent custom firmware when installed via Infinity! You can check out our guide here.</p>
+	<div class="text-center">
+		<p class="rt-button"><a href="{% link psp/infinity.md %}">Infinity Custom Firmware</a></p>
+	</div>
+</div>
+
+<script src="{{ '/assets/js/psp-wizard.js' | relative_url }}"></script>
