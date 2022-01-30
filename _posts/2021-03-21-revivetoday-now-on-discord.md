@@ -1,5 +1,6 @@
 ---
 title:  ReviveToday now on Discord
+image: /assets/img/rt-discord-banner.png
 layout: post
 ---
 

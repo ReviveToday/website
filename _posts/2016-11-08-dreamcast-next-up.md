@@ -1,11 +1,9 @@
 ---
 title:  Dreamcast next up on RT
+image: /assets/img/Dreamcast_Logo-300x225.jpeg
 layout: post
 tags:   [Consoles, Support]
 ---
-
-![blue spiral with 'Dreamcast' written underneath](/assets/img/Dreamcast_Logo-300x225.jpeg)
-{: .article-image }
 
 We’ve been modifying some of the current guides up. With the transition complete it feels like the time to add a new console to the lineup. Up next was the last console release from SEGA, and they ended their releases with a storm. The Dreamcast.
 

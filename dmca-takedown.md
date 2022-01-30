@@ -1,6 +1,7 @@
 ---
 title: DMCA Takedown
 layout: page
+comments: false
 ---
 
 We are civil with no intention of breaking any law. As a result, we are willing to discuss matters of Copyright without the need of legal intervention. Please feel free to email us to discuss infringement before launching a legal case.

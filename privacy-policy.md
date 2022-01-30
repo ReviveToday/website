@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: page
+comments: false
 ---
 
 Policy updated **12th January 2021**: Google Analytics no longer in use.

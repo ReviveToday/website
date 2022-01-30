@@ -1,5 +1,6 @@
 ---
 title:  Nintendo DS Next in the Family
+image: /assets/img/Nintendo-DS-Introduction.png
 layout: post
 tags:   [Consoles]
 ---

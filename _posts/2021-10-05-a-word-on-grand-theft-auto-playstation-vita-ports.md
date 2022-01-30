@@ -1,5 +1,6 @@
 ---
 title:  A word on Grand Theft Auto PlayStation Vita ports
+image: /assets/img/IMG_20211005_172613.jpeg
 layout: post
 tags:   [Homebrew]
 ---

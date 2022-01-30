@@ -7,7 +7,8 @@ layout: default
 	<h1 class="post-title">Blog</h1>
 </header>
 
-<!-- This loops through the paginated posts -->
+<p>Showing page {{ paginator.page }} of {{ paginator.total_pages }}.</p>
+
 {% for post in paginator.posts %}
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="content">
@@ -15,22 +16,21 @@ layout: default
 	</div>
 {% endfor %}
 
-<!-- Pagination links -->
 <hr>
-<div class="pagination">
-	{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path }}" class="previous">
-			Previous
-		</a>
-	{% else %}
-		<span class="previous">Previous</span>
-	{% endif %}
-	<span class="page_number ">
-		Page {{ paginator.page }} of {{ paginator.total_pages }}
-	</span>
-	{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path }}" class="next">Next</a>
-	{% else %}
-		<span class="next ">Next</span>
-	{% endif %}
-</div>
+<nav aria-label="Page navigation example">
+	<ul class="pagination justify-content-center">
+		{% if paginator.previous_page %}
+		<li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a></li>
+		{% else %}
+		<li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
+		{% endif %}
+		{% for i in paginator.total_pages %}
+		<li class="page-item"><a class="page-link" href="{{ i }}">{{ i }}</a></li>
+		{% endfor %}
+		{% if paginator.next_page %}
+		<li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Next</a></li>
+		{% else %}
+		<li class="page-item disabled"><a class="page-link" href="#">Next</a></li>
+		{% endif %}
+	</ul>
+</nav>
