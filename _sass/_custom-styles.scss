@@ -87,13 +87,6 @@ a:hover {
 		background-color: #66CCFF;
 		border-bottom-color: #3E94C0;
 	}
-	
-	&.info::before {
-		font-family: "Font Awesome 5 Free";
-		font-weight: 900;
-		content: "\f05a";
-		margin-right: 10px;
-	}
 
 	&.rt-alert.success {
 		background-color: #339900;
@@ -101,23 +94,9 @@ a:hover {
 		color: #FFF;
 	}
 	
-	&.rt-alert.success::before {
-		font-family: "Font Awesome 5 Free";
-		font-weight: 900;
-		content: "\f058";
-		margin-right: 10px;
-	}
-	
 	&.rt-alert.warning {
 		background-color: #FFCC00;
 		border-bottom-color: #C69E00;
-	}
-	
-	&.rt-alert.warning::before {
-		font-family: "Font Awesome 5 Free";
-		font-weight: 900;
-		content: "\f071";
-		margin-right: 10px;
 	}
 	
 	&.rt-alert.error,
@@ -130,14 +109,6 @@ a:hover {
 	&.rt-alert.error a,
 	&.rt-alert.danger a {
 		color: #fff;
-	}
-	
-	&.rt-alert.error::before,
-	&.rt-alert.danger::before {
-		font-family: "Font Awesome 5 Free";
-		font-weight: 900;
-		content: "\f06a";
-		margin-right: 10px;
 	}
 }
 
