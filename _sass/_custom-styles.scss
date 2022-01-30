@@ -1,3 +1,7 @@
+body {
+	background-color: #f2f2f2;
+}
+
 .navbar {
 	background-color: $rt-color-main;
 	border-bottom: 0.25em solid $rt-color-dark;
@@ -164,6 +168,27 @@
 .rt-columncase {
 	img {
 		max-width: 125px;
+	}
+}
+
+.page-content .container {
+	background-color: #ffffff;
+	border: 1px solid #dadada;
+}
+
+.footer {
+	background-color: #1f1f1f;
+    border-top: 0.25em solid #3a3a3a;
+	color: #fff;
+}
+
+.dark-mode {
+	background-color: #282828;
+	color: #fff;
+
+	.page-content .container {
+		background-color: #333;
+		border-color: #212121;
 	}
 }
 
