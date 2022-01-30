@@ -10,7 +10,7 @@ But 2021 needn’t be a bad year for retro, and we aim to promise some big chang
 
 * Reviewing all our pages to fix the ‘coming soon’ semi-abandoned pages.
 * Updating the [PSP CFW wizard](https://revive.today/psp/wizard/) to include guidance for the Street, other than “tough luck”.
-* Hopefully improving [this blog segment](https://revive.today/blog/) with some more interesting retro news.
+* Hopefully improving [this blog segment]({% link blog/index.html %}) with some more interesting retro news.
 
 And after so long of promising this, it’s finally coming:
 

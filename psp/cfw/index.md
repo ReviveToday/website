@@ -5,7 +5,7 @@ layout: page
 
 ## About Custom Firmware
 
-![Screen cap of About PSP showing version 6.60 with custom firmware PRO-B10 installed.](https://revive.today/wp-content/uploads/2016/08/Screen-Shot-2017-02-18-at-20.02.19-300x169.png)
+![Screen cap of About PSP showing version 6.60 with custom firmware PRO-B10 installed.](/assets/img/Screen-Shot-2017-02-18-at-20.02.19.png)
 {: .article-image }
 
 You can play games in the UMD drive, you can play games you bought from the store, but when it comes to trying to play games in an unconventional manner, you will hit a road block. If you try to play a backup copy of a game, activate a non-sony theme, or install an emulator you will find you can’t progress in some manner. That is where Custom Firmware steps in.
@@ -56,14 +56,14 @@ Ensure you downloaded the **correct version** for your PSP. If you installed a 6
 
 So you’ve now obtained an archive of the custom firmware you need for your PSP version. Extract this folder and you should see a folder named either PSP or GAME. If so, you need to copy this folder to your PSP.
 
-![Windows Explorer showing the contents of CFW 6.61 PRO-C.](https://revive.today/wp-content/uploads/2016/08/Screen-Shot-2017-02-18-at-20.22.17.png)
+![Windows Explorer showing the contents of CFW 6.61 PRO-C.](/assets/img/Screen-Shot-2017-02-18-at-20.22.17.png)
 {: .article-image }
 
 Connect your PSP to your computer via USB, and go to USB Connection mode. Once it appears in your File Explorer (It’ll appear like a memory stick), open it up. You should see a folder named PSP (If your archive contained a folder named GAME, then open up the PSP folder). Extract your folder here as if you’re overwriting the folder, as your computer should only add the new files. Once done, you can now disconnect your PSP from your computer.
 
 Open up your memory stick under the Game section. You should now see some new exciting options (examples from PRO-C)!
 
-![Screenshot of PSP showing the PRO-C Hack files](https://revive.today/wp-content/uploads/2016/08/Screen-Shot-2017-02-18-at-20.27.29.png)
+![Screenshot of PSP showing the PRO-C Hack files](/assets/img/Screen-Shot-2017-02-18-at-20.27.29.png)
 {: .article-image }
 
 Now here’s the really difficult part. Prepare a brew and dig out the biggest pack of biscuits you’ve got, this is going to take a while. Open 661 PRO-C Fast Recovery (PRO), and wait for your PSP to reboot.
@@ -82,13 +82,13 @@ What are the benefits? If you use a large memory card that official firmware can
 
 If your device is capable as pointed out by the wizard, open up the CIPL Flasher utility that came with your custom firmware, and once a black screen with white text opens, press the button that corresponds with ‘install CIPL’. Once done, it will reboot your PSP. Now if you go to system > System Information on your PSP, it should now say you are running the custom firmware you desired. Even without opening the fast recovery utility!
 
-If your device is not listed, you will need to install via Infinity. [Please check out our Infinity guide](https://revive.today/psp/infinity/) instead for installation on semi-permanent capable devices.
+If your device is not listed, you will need to install via Infinity. [Please check out our Infinity guide]({% link psp/infinity.md %}) instead for installation on semi-permanent capable devices.
 
 ## FAQ
 
 ### How can I see whether my custom firmware is running?
 
-![Screen cap of About PSP showing version 6.60 with custom firmware PRO-B10 installed.](https://revive.today/wp-content/uploads/2016/08/Screen-Shot-2017-02-18-at-20.02.19-300x169.png)
+![Screen cap of About PSP showing version 6.60 with custom firmware PRO-B10 installed.](/assets/img/Screen-Shot-2017-02-18-at-20.02.19.png)
 {: .article-image }
 
 All cfws like to modify the system information screen to show what custom firmware you’re running. Open System Settings and then System Information. If ‘System Software’ shows just a number and your full mac address is shown, then you are running official firmware. Custom firmware will add their moniker to this segment (e.g. 6.61 PRO-C2).

@@ -4,13 +4,13 @@ layout: post
 tags:   [Homebrew]
 ---
 
-This was initially being written to explain why the ports are absent from the [essential applications](https://revive.today/psvita/apps/) corner, but this has since become more of a blog post than an explanation.
+This was initially being written to explain why the ports are absent from the [essential applications]({% link psvita/apps.md %}) corner, but this has since become more of a blog post than an explanation.
 
-One of those famous homebrew releases in the recent years has been the fact _Grand Theft Auto_ 3D-era games have been ported to the **[PlayStation Vita](https://revive.today/psvita/)**. These games work using fantastic development efforts by developers to load in **Android libraries** and port over to Vita as much as possible. This results in a pretty seamless experience of Android games on the Vita. Naturally, the first ports of call for conversion are the range of _Grand Theft Auto_ games on the **Play Store**.
+One of those famous homebrew releases in the recent years has been the fact _Grand Theft Auto_ 3D-era games have been ported to the **[PlayStation Vita]({% link psvita/index.md %})**. These games work using fantastic development efforts by developers to load in **Android libraries** and port over to Vita as much as possible. This results in a pretty seamless experience of Android games on the Vita. Naturally, the first ports of call for conversion are the range of _Grand Theft Auto_ games on the **Play Store**.
 
 For these to work, you would purchase and download the game from the Play Store. Once acquired, you could copy the assets off your phone and onto the Vita, and with some jiggery-pokery, you’d have your copy of the game running on your Vita. This was win-win: The developer can distribute the source code as it contains no illegal content distribution, and you can play your legally purchased game copy (as it’s pretty much running on Android).
 
-We still hat-tip to the developers for porting **Grand Theft Auto: San Andreas** to the Vita. If you had told me when I was playing it on **[PlayStation 2](https://revive.today/ps2/)** that I’d be playing it hand-held, I would’ve laughed… And so soon! **ModernVintageGamer** covers the port extremely well.
+We still hat-tip to the developers for porting **Grand Theft Auto: San Andreas** to the Vita. If you had told me when I was playing it on **[PlayStation 2]({% link ps2/index.md %})** that I’d be playing it hand-held, I would’ve laughed… And so soon! **ModernVintageGamer** covers the port extremely well.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jYpxxi-RaoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -39,6 +39,6 @@ Here at ReviveToday we will keep an eye on the developments and make them availa
 
 * [Take Two have filed a lawsuit against the creators of Re3](https://wololo.net/2021/09/03/take-two-have-filed-a-lawsuit-against-the-creators-of-re3-gta-reverse-engineering-open-source-project/) – Wololo
 * [Take-Two Suing GTA3 Reverse Engineering devs…and it doesn’t look good](https://youtu.be/Z9OZ2A-c62g) – MVG, YouTube
-* [Now Take-Two is going after GTA reverse engineering projects](https://www.eurogamer.net/articles/2021-09-03-now-take-two-is-going-after-gta-reverse-engineering-projects) – EuroGamer
+* [Now Take-Two is going after GTA reverse engineering projects](https://www.eurogamer.net/articles/2021-09-03-now-take-two-is-going-after-gta-reverse-engineering-projects) – EuroGamer
 * [Take-Two Is Suing Reverse-Engineered GTA 3 and Vice City Fan Project Creators](https://www.ign.com/articles/take-two-reverse-engineered-gta-three-vice-city-fan-project-lawsuit) – IGN
 * [Grand Theft Auto modders that tried to get around a DMCA claim get walloped with Take-Two lawsuit](https://www.pcgamer.com/uk/grand-theft-auto-modders-that-tried-to-get-around-a-dmca-claim-get-walloped-with-take-two-lawsuit/) – PC Gamer

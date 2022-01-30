@@ -47,7 +47,7 @@ All of these editions can be found in the downloadable ZIP file, including combi
 To install this, you need the following at your disposal:
 
 * A modified PS2 (soft or hard modded).
-  *   Got a compatible, yet unmodded console? Check out our [FreeMCBoot](https://revive.today/ps2/freemcboot-tutorial/) and [FreeHDBoot](https://revive.today/ps2/freehdboot-tutorial/) guides.
+  *   Got a compatible, yet unmodded console? Check out our [FreeMCBoot]({% link ps2/freemcboot-tutorial.md %}) and [FreeHDBoot]({% link ps2/freehdboot-tutorial.md %}) guides.
 * ULaunchELF.
 * A USB storage device.
   * Needs to be formatted to FAT or FAT32, or ULELF might not recognise it.
@@ -58,7 +58,7 @@ Boot up your PS2 and run ULaunchELF (for FMCB, this’ll be in the boot menu). F
 
 * Leave it here and boot it off your Memory Stick.
 * If you have **a lot** of Memory Card space, create a folder /APP on your memory card, and paste it in there.
-  * If you have an in-built HDD (Original PS2 with Network Adapter and IDE Drive), you won’t need to worry about space so much, as the config and directories will be [stored on a properly-formatted HDD](https://revive.today/ps2/freehdboot-tutorial/).
+  * If you have an in-built HDD (Original PS2 with Network Adapter and IDE Drive), you won’t need to worry about space so much, as the config and directories will be [stored on a properly-formatted HDD]({% link ps2/freehdboot-tutorial.md %}).
   * Also, if you plan to use network sharing, the brunt of the files will be off-loaded to the network drive.
 
 With either choice, you’ll be able to boot OPL.ELF from ULaunchELF.

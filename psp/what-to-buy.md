@@ -10,7 +10,7 @@ layout: page
 
 ## 1000
 
-![PSP 1000 in Piano Black](https://revive.today/wp-content/uploads/2018/04/Psp-1000-1024x581.jpg)
+![PSP 1000 in Piano Black](/assets/img/PSP-1000.jpeg)
 
 * CPU: 333 Mhz
 * Memory: 32 MB
@@ -26,7 +26,7 @@ layout: page
 
 ## 2000
 
-![PSP 2000 in Piano Black](https://revive.today/wp-content/uploads/2018/04/PSP-2000-1024x576.jpg)
+![PSP 2000 in Piano Black](/assets/img/PSP-2000.jpeg)
 
 * CPU: 333 Mhz
 * Memory: **64 MB**
@@ -42,7 +42,7 @@ layout: page
 
 ## 3000
 
-![PSP 3000 in Silver](https://revive.today/wp-content/uploads/2018/04/PSP-3000-Silver-1024x565.jpg)
+![PSP 3000 in Silver](/assets/img/PSP-3000-Silver.jpeg)
 
 * CPU: 333 Mhz
 * Memory: **64 MB**
@@ -58,7 +58,7 @@ layout: page
 
 ## Go
 
-![PSP Go in Piano Black](https://revive.today/wp-content/uploads/2018/04/PSP-Go-FL-Open-1024x954.jpg)
+![PSP Go in Piano Black](/assets/img/PSP-Go.jpeg)
 
 * CPU: 333 Mhz
 * Memory: **64 MB**
@@ -83,7 +83,7 @@ _\* Pro Duo to MicroSD converters can be used in place, with no detrimental effe
 
 If you can grab a **PSP 3000**, you’ll be looking at the best base model you can obtain. This model received significant improvements to the screen so you should not have the common ghosting issue that plagues the older models. If you don’t mind sacrificing features, the original PSP 1000 is incredibly easy to get hold of easily, and often does not cost too much.
 
-The Go arguably has the most exciting features, bringing it quite closely to what the Switch of today can perform. You can connect a Dualshock 3 controller to it natively, and buy a dock that would give you a composite AV output. The trade-offs are obvious, but if you’re happy to [explore custom firmware](https://revive.today/psp/cfw/) and use ROMs the problems are reduced. Keep in mind that most of the solutions to overcome the **M2 storage medium** involve getting handy with a screwdriver, so if you want more than 16 GB storage without tinkering, you’re better off sticking with the other models.
+The Go arguably has the most exciting features, bringing it quite closely to what the Switch of today can perform. You can connect a Dualshock 3 controller to it natively, and buy a dock that would give you a composite AV output. The trade-offs are obvious, but if you’re happy to [explore custom firmware]({% link psp/cfw/index.md %}) and use ROMs the problems are reduced. Keep in mind that most of the solutions to overcome the **M2 storage medium** involve getting handy with a screwdriver, so if you want more than 16 GB storage without tinkering, you’re better off sticking with the other models.
 
 ### On a Budget? Go Vita
 
@@ -92,7 +92,7 @@ Since we began the website, the PS Vita homebrew stabilised immensely. This is g
 We will cover the PS Vita in more detail soon on this website, but for now we fully recommend the **[Vita Hacks Guide](https://vita.hacks.guide/)** for setting up your PS Vita for homebrew. This amazing guide goes from A to B clearly and caters for almost all variances in setup.
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://revive.today/psvita/wtb/">What to Buy – Vita Version</a></p>
+	<p class="rt-button"><a href="{% link psvita/what-to-buy.md %}">What to Buy – Vita Version</a></p>
 </div>
 
 ## Storage
@@ -107,6 +107,6 @@ You can also go the full mile and purchase a _Photofast Cr-5400_, which will con
 
 ## Battery
 
-Unfortunately as with everything that is battery powered, the cells made by Sony are all passed their expected (or even hopeful) life. You can get lucky and find some PSP batteries that will still hold a charge, but they will be significantly reduced from their original lifespan. [We cover the battery life issue of PSP here](https://revive.today/psp/battery/), but this is something that needs to be considered before purchasing.
+Unfortunately as with everything that is battery powered, the cells made by Sony are all passed their expected (or even hopeful) life. You can get lucky and find some PSP batteries that will still hold a charge, but they will be significantly reduced from their original lifespan. [We cover the battery life issue of PSP here]({% link psp/battery.md %}), but this is something that needs to be considered before purchasing.
 
 There are community efforts to replace the internal battery with newer, inbuilt lithium cells to keep the life of the PSP up, normally sacrificing the UMD drive in the process. If you’re happy to modify your PSP, the replacement of batteries in all different forms is covered all over the PSP community. If you don’t want to hack apart your new piano black, then you can normally get buy with a USB cable and a 10,000 mAh phone power bank.

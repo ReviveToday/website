@@ -9,7 +9,7 @@ With the closure of the PSN store, it has become increasingly difficult to find 
 
 ### Exit
 
-![Exit game cover art](https://revive.today/wp-content/uploads/2016/09/Exit-cover-176x300.jpg)
+![Exit game cover art](/assets/img/Exit-cover-176x300.jpeg)
 {: .article-image }
 
 Pack containing Extra Situations for the game Exit, a puzzle based game in which you help an escapologist escape a variety of different scenarios.
@@ -22,7 +22,7 @@ _Credit goes to Redditor [**Notpoe779**](https://www.reddit.com/user/Notpoe779) 
 
 ### Hot Pixel
 
-![HOT PXL game cover art](https://revive.today/wp-content/uploads/2016/09/hotxl-176x300.jpg)
+![HOT PXL game cover art](/assets/img/hotxl-176x300.jpeg)
 {: .article-image }
 
 A great minigame collection inspired by the consoles of old, based in a suburban style. With these packs, you will now have an even bigger collection of minigames to play! The original site is [still available](https://www.hotpxl.com/).
@@ -36,7 +36,7 @@ _Credit goes to Redditor **[DeltaBladeX](https://www.reddit.com/user/DeltaBladeX
 
 ### Killzone: Liberation
 
-![Killzone: Liberation game cover art](https://revive.today/wp-content/uploads/2016/09/killzone-175x300.jpg)
+![Killzone: Liberation game cover art](/assets/img/killzone-175x300.jpeg)
 {: .article-image }
 
 The famous Killzone series unique to Sony has made its way to the PlayStation Portable! Continue the fight from the original Killzone in this top-down PSP shooter. Download _Chapter Five_ and continue the fight even further.
@@ -51,7 +51,7 @@ _Credit goes to Redditor **[DeltaBladeX](https://www.reddit.com/user/DeltaBladeX
 
 ### Wipeout Pure
 
-![PSP game cover for Wipeout Pure](https://revive.today/wp-content/uploads/2016/11/44433-wipeout-pure-psp-front-cover-173x300.jpg)
+![PSP game cover for Wipeout Pure](/assets/img/44433-wipeout-pure-psp-front-cover-173x300.jpeg)
 {: .article-image }
 
 Stop racing cars around a track and look to the future. Wipeout Pure pits you into the future of racing with anti-gravity ships instead of cars, bringing racing games into the future. Use these packs to deck your ride out some more, or race in alternative locations.

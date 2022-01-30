@@ -14,7 +14,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 **PCH-1000**
 
-![](https://revive.today/wp-content/uploads/2021/06/PlayStation-Vita-1101-FL-1024x625.jpg)
+![](/assets/img/PlayStation-Vita-1.jpeg)
 
 * CPU: ARM Cortex-A9 Quad Core
 * Memory: 512 MB
@@ -31,7 +31,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 **PCH-2000**
 
-![](https://revive.today/wp-content/uploads/2021/06/PlayStation-Vita-2001-FL-1024x627.jpg)
+![](/assets/img/PlayStation-Vita-2.jpeg)
 
 * CPU: ARM Cortex-A9 Quad Core
 * Memory: 512 MB
@@ -46,7 +46,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 ## Vita TV
 
-![](https://revive.today/wp-content/uploads/2021/06/PlayStation-TV-BL-1024x695.jpg)
+![](/assets/img/PlayStation-TV.jpeg)
 
 * CPU: ARM Cortex-A9 Quad Core
 * Memory: 512 MB

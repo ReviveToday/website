@@ -15,29 +15,29 @@ Yet to install CFW on your PS Vita? Vita Hacks Guide has the best installer guid
 
 <div class="container text-center">
 	<div class="row align-items-start">
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/10/3bg.png')">
+		<div class="col" style="background-image:url('/assets/img/vita-andrenaline-bg.png')">
 			<h3>Andrenaline</h3>
 			<p><strong>PSP Emulator</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/10/icon0.png">
+			<img src="/assets/img/vita-andrenaline-bg.png">
 			<p>The built-in PSP emulation is <strong>fantastic</strong>. It comes with a 1:1 emulation of all PSP features, but restricted to whatever PSP or PSOne games you download from the Vita store. Adrenaline not only opens this emulator up to full system emulation, but comes with custom firmware too. An absolute <strong>must-have</strong>. Created by a <a href="https://github.com/TheOfficialFloW">seasoned homebrew veteran TheOfficialFloW</a>.</p>
 			<div>
 				<p class="rt-button"><a href="https://vita.hacks.guide/adrenaline">Install Andrenaline</a></p>
 			</div>
 		</div>
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/10/1bg.png')">
+		<div class="col" style="background-image:url('/assets/img/vita-retroarch-bg.png')">
 			<h3>RetroArch</h3>
 			<p><strong>Multi-platform emulator</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/10/icon2.png">
+			<img src="/assets/img/vita-retroarch-logo.png">
 			<p>Want to play retro games? With RetroArch, you’re always pretty much guaranteed to have your favourite console available.</p>
 			<p>We’ve yet to confirm what the Vita can run, but with the Vita specs you should be comfortable with consoles up to <strong>PSX</strong>.</p>
 			<div>
 				<p class="rt-button"><a href="https://docs.libretro.com/guides/install-psv/">Install RetroArch</a></p>
 			</div>
 		</div>
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/10/2bg.png')">
+		<div class="col" style="background-image:url('/assets/img/vita-vitashell-bg.png')">
 			<h3>VitaShell</h3>
 			<p><strong>File Manager</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/10/icon1.png">
+			<img src="/assets/img/vita-vitashell-logo.png">
 			<p>The de-facto most important Homebrew app needed for every Vita. Not only does this allow you to browse the full filesystem of your Vita, but lets you start-up network file sharing and install applications.</p>
 			<p>When following a CFW guide, you will likely install this almost immediately.</p>
 			<div>

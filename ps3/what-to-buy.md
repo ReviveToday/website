@@ -13,7 +13,7 @@ This article is still **undergoing quality control** due to missing information 
 
 ## Original / “phat”
 
-![](https://revive.today/wp-content/uploads/2021/04/1280px-PS3-Fat-Console-Vert.jpg)
+![](/assets/img/1280px-PS3-Fat-Console-Vert.jpeg)
 
 Shiny shell, Raimi Spiderman font, heavyweight.
 
@@ -29,7 +29,7 @@ Shiny shell, Raimi Spiderman font, heavyweight.
 
 ## Slim
 
-![](https://revive.today/wp-content/uploads/2021/07/800px-PS3-Slim-Console-Vert.jpg)
+![](/assets/img/800px-PS3-Slim-Console-Vert.jpeg)
 
 Matte shell, PS3 emboss logo, defined buttons, slimmer profile.
 
@@ -45,7 +45,7 @@ Matte shell, PS3 emboss logo, defined buttons, slimmer profile.
 
 ## Super Slim
 
-![](https://revive.today/wp-content/uploads/2021/07/1920px-Sony-PlayStation-PS3-SuperSlim-Console-FL.jpg)
+![](/assets/img/1920px-Sony-PlayStation-PS3-SuperSlim-Console-FL.jpeg)
 
 Corrugated top shell, flat PS3 logo, face-side tiny buttons, pancake.
 
@@ -83,7 +83,7 @@ If you were keen on more advanced offerings that came with the PlayStation, they
 
 It seems like both the **original PlayStation 3** and the **original Xbox 360** have something in common – **heat death**. It seems like with the race to release the next generation, both consoles didn’t account for something that was not something easily tested on tight deadlines. That is the multi-hour gaming.
 
-![](https://revive.today/wp-content/uploads/2021/07/ps3thisisfine.png)
+![](/assets/img/ps3thisisfine.png)
 {: .article-image }
 
 While the Xbox 360 was famous for the three **Red Ring of Death**, the PlayStation 3 was as-famous with the **Yellow Light of Death** – the console’s way of letting you know there’s a hardware failure. The reason? Well, it would be making it easy if it told you now, wouldn’t it.

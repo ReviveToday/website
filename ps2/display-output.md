@@ -14,7 +14,7 @@ Just want to see **HDMI** options? [**Skip to it here**](#cable-hdmi).
 
 ### RF (Aerial lead)
 
-![RF Female port](https://revive.today/wp-content/uploads/2016/11/RF.png)
+![RF Female port](/assets/img/port-rf.png)
 
 This is by far the _worst_ option of the lot. While this was never necessarily an option, the PS1 came with the RF lead that was compatible with the PS2. This option will most likely have the most support, but unless your TV came with absolutely no peripheral ports this will not be a concern.
 
@@ -24,7 +24,7 @@ This option can suffer from a lot of interference, and cannot pull out informati
 
 ### RCA Composite
 
-![Group of RCA females](https://revive.today/wp-content/uploads/2016/11/RCA.png)
+![Group of RCA females](/assets/img/port-rca.png)
 
 RCA is the option that came with PS2 by default. The distinct characteristics are connectors split into three colours; red, yellow and white. Yellow provides the video through a composite output, with the red and white connectors controlling the audio. RCA also comes with a converter that lets you plug-in to a standard SCART port, especially in Europe.
 
@@ -34,7 +34,7 @@ Like RF, composite unfortunately suffers from an interference issue, but the int
 
 ### Component SCART
 
-![SCART female port](https://revive.today/wp-content/uploads/2016/11/SCART.png)
+![SCART female port](/assets/img/port-scart.png)
 
 The SCART converter that comes with the PS2 only converts the RCA signals to the best it can achieve. However, SCART can achieve a lot more than just mere conversion. While composite is inferior, the dedicated SCART cable can transmit true RGB, a much cleaner, crisper picture.
 
@@ -44,7 +44,7 @@ For any standard definition TV that supports SCART, this is by far the best purc
 
 ### Component (YPBPR)
 
-![Group of female component ports](https://revive.today/wp-content/uploads/2016/11/Component.png)
+![Group of female component ports](/assets/img/port-component.png)
 
 The PS2 natively supports a YPBPR, so if your TV has native component ports they may be the best supported option you can go for.
 
@@ -54,7 +54,7 @@ This option comes with a small caveat – unless you have a SDTV connection comp
 
 ### HDMI
 
-![Drawing of a HDMI port.](https://revive.today/wp-content/uploads/2021/02/HDMI-300x99.png)
+![Drawing of a HDMI port.](/assets/img/port-hdmi.png)
 
 HDMI is the de-facto port of the current generation of modern outputs – the kitchen sink of connections. HDMI can send huge swathes of digital video and audio in a seemingly small package. Except well, there’s the problem… **digital**.
 
@@ -76,7 +76,7 @@ This suffers from the same problem as the [Component route](#cable-component) if
 
 Interestingly, the PS2 _does_ support (a stretch of the definition) **1080i** as an optional resolution. The general populace at the time would never need to make output adjustments, so typical outputs were either **PAL** or **NTSC**, at **420p** or **420i**. There were however a few specialist games that provided you the option to change your resolution if your TV supported it. **US copies of Gran Turismo 4** is the best example that supports an upscaled 1080i resolution.
 
-If you really want to squeeze the best you can out of the PS2, modded consoles can benefit from **[GS Mode Selector (GSM)](https://revive.today/ps2/apps/gsm/)**, which will allow you to change the output resolution for **all games**. Don’t expect any HD miracles, but you can certainly reduce that TV upscaler ‘quality’.
+If you really want to squeeze the best you can out of the PS2, modded consoles can benefit from **[GS Mode Selector (GSM)]({% link ps2/apps/gsm.md %})**, which will allow you to change the output resolution for **all games**. Don’t expect any HD miracles, but you can certainly reduce that TV upscaler ‘quality’.
 
 ## The Blind PS2 Mode Switch
 

@@ -26,7 +26,7 @@ Screen replacements of _anything_ is enough to get you screaming and smashing up
 
 ### Battery
 
-[As we have covered already](https://revive.today/psp/battery/), batteries for the PSP in this era are either reduced capacity, dying or dead. Instead of swapping batteries every 10 minutes, with some electrical prowess you can replace the PSP battery with a brand new form altogether. To do this, you will need an **official** PSP battery (doesn’t matter how well it holds charge), and some rolled up sleeves as you will have to get out the pliers for this one.
+[As we have covered already]({% link psp/battery.md %}), batteries for the PSP in this era are either reduced capacity, dying or dead. Instead of swapping batteries every 10 minutes, with some electrical prowess you can replace the PSP battery with a brand new form altogether. To do this, you will need an **official** PSP battery (doesn’t matter how well it holds charge), and some rolled up sleeves as you will have to get out the pliers for this one.
 
 It is nothing short of a miracle that the battery in the PSP is 3000mAh with such a small form factor, so it’s widely believed that the packaging simply _lied_ about the storage capacity, since it was highly unlikely the PSP would’ve needed such power off the shelf. So don’t get confused when you see that batteries twice the size of the original one measure at the same mAh. Different battery types and storage methods makes this a wild sector.
 

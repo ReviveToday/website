@@ -11,5 +11,5 @@ The low-cost IoT board Raspberry Pi is a powerful little board of delights, and 
 The guide is currently on-going. If you’re tempted by this and wish to give it a shot, check the link below!
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://revive.today/diy/raspberry-pi/">DIY Retro Console with Raspberry Pi</a></p>
+	<p class="rt-button"><a href="{% link raspberry-pi.md %}">DIY Retro Console with Raspberry Pi</a></p>
 </div>

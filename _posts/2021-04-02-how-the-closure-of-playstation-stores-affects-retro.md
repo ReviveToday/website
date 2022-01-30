@@ -58,6 +58,6 @@ This may also lead to a rise in video game piracy, if the games become difficult
 
 Far from it! All three platforms benefit from huge homebrew communities, which will keep up activity for years to come. Look at the original Xbox and the Dreamcast for how long communities care for these devices. All this means is that Sony is cutting one of the major sources of funds that they receive from these platforms, but will not stop you from enjoying all your existing content, content you can purchase second-hand, and the vast range of homebrew titles out there.
 
-We currently cover the **[PlayStation Portable](https://revive.today/psp/)** here. **PlayStation 3** and **PlayStation Vita** are coming soon, but stay tuned for more information on those platforms.
+We currently cover the **[PlayStation Portable]({% link psp/index.md %})** here. **PlayStation 3** and **PlayStation Vita** are coming soon, but stay tuned for more information on those platforms.
 
 _Edit: Article update as it incorrectly referred to the **PlayStation Network**, rather than the **PlayStation Store**._

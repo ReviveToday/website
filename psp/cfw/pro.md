@@ -9,7 +9,7 @@ The following article details the process of setting up your PSP with the PRO cu
 * Play homebrew games and applications.
 * Customise advanced settings, overclock your processor and change to custom themes.
 
-For more details and benefits of cfw, [check out the main article](https://revive.today/psp/cfw/).
+For more details and benefits of cfw, [check out the main article]({% link psp/cfw/index.md %}).
 
 ## Prerequisites
 
@@ -43,7 +43,7 @@ Once you’ve downloaded the corresponding custom firmware package for your cons
 
 Extract your downloaded archive to a place on your computer. The folder is created should look like this inside.
 
-![Window showing the custom firmware filesystem.](https://revive.today/wp-content/uploads/2017/05/Screen-Shot-2017-05-25-at-22.50.33.png)
+![Window showing the custom firmware filesystem.](/assets/img/Screen-Shot-2017-05-25-at-22.50.33.png)
 {: .article-image }
 
 The developers structure the layout so that it can simply be dropped into the root of your PSP, and the files will be placed where they need to be.
@@ -54,7 +54,7 @@ Now the files are on your PSP, we can now disconnect it from your computer.
 
 ## Installing
 
-![](https://revive.today/wp-content/uploads/2016/08/Screen-Shot-2017-02-18-at-20.27.29.png)
+![](/assets/img/Screen-Shot-2017-02-18-at-20.27.29.png)
 {: .article-image }
 
 Returning to the PSP, you should now have some new entries under Memory Stick menu item in Game. You should have entries for **Pro Update**, **Pro Fast Recovery** and **Pro CIPL Flasher**. If any or all of these come up as corrupted media, then double check your firmware versions and try again.
@@ -63,7 +63,7 @@ To install the custom firmware, run the **Pro Update** application. The console 
 
 Check your PSP firmware like you did earlier on, and if all was successful your system software will show the custom firmware you installed after it.
 
-![](https://revive.today/wp-content/uploads/2016/08/Screen-Shot-2017-02-18-at-20.02.19.png)
+![](/assets/img/Screen-Shot-2017-02-18-at-20.02.19.png)
 {: .article-image }
   
 That’s it, you’re now running custom firmware! However, this is **not permanent**. Every time you start up your PSP, you will need to run _Pro Fast Recovery_ to return to the custom firmware state. It’s not exactly a difficult process, but in a few cases you do have the option to make this permanent.

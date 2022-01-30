@@ -18,28 +18,28 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 
 <div class="container text-center">
 	<div class="row align-items-start">
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/06/PIC1.png')">
+		<div class="col" style="background-image:url('/assets/img/psp-retroarch-bg.png')">
 			<h3>RetroArch</h3>
 			<p><strong>Multi-platform</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-7.png">
+			<img src="/assets/img/psp-retroarch-logo.png">
 			<div>
 				<p class="rt-button"><a href="http://buildbot.libretro.com/stable/1.9.5/playstation/psp/RetroArch.7z">Download</a></p>
 			</div>
 			<p>(<a href="https://www.retroarch.com/?page=platforms">source</a>)</p>
 		</div>
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/06/RINMENU.png')">
+		<div class="col" style="background-image:url('/assets/img/psp-rin-bg.png')">
 			<h3>RIN</h3>
 			<p><strong>Gameboy (Color)</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-2.png">
+			<img src="/assets/img/psp-rin-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://github.com/mbarczak/psp_rin/releases/download/v2.0/RIN_1_32_RM_v2_0.zip">Download</a></p>
 			</div>
 			<p>(<a href="https://github.com/mbarczak/psp_rin">source</a>)</p>
 		</div>
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/06/PIC1-1.png')">
+		<div class="col" style="background-image:url('/assets/img/psp-gpsp-bg.png')">
 			<h3>uo gpSP Kai</h3>
 			<p><strong>Gameboy Advance</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0.png">
+			<img src="/assets/img/psp-gpsp-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2018/02/UO-gpSP-kai-v3.4-test-4-build-225.zip">Download</a></p>
 			</div>
@@ -47,19 +47,19 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		</div>
 	</div>
 	<div class="row align-items-start">
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/06/background.png')">
+		<div class="col" style="background-image:url('/assets/img/psp-sms-bg.png')">
 			<h3>SMS+ PSP</h3>
 			<p><strong>SEGA Master System</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-3.png">
+			<img src="/assets/img/psp-sms-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/smsplus-1.3.1-1.0.zip">Download</a></p>
 			</div>
 			<p>(<a href="http://psp.akop.org/smsplus.htm">source</a>)</p>
 		</div>
-		<div class="col" style="background-image:url('https://revive.today/wp-content/uploads/2021/06/ICON0-1.png')">
+		<div class="col" style="background-image:url('/assets/img/psp-dgen-logo.png')">
 			<h3>DGEN</h3>
 			<p><strong>SEGA Mega Drive/Genesis</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-1.png">
+			<img src="/assets/img/psp-dgen-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2018/02/DGEN_170_Lite.zip">Download</a></p>
 			</div>
@@ -76,7 +76,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>Fusa Gamepad</h3>
 			<p><strong>Physical Controller Emulator</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-4.png">
+			<img src="/assets/img/psp-fusa.png">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/FusaGamePad.zip">Download</a></p>
 			</div>
@@ -85,7 +85,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>PSPDisp</h3>
 			<p><strong>PSP as Monitor (ADVANCED)</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-5.png">
+			<img src="/assets/img/psp-pspdisp-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/PSPdisp.zip">Download</a></p>
 			</div>
@@ -94,7 +94,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>PSPKVM</h3>
 			<p><strong>Java Applet Support</strong></p>
-			<img src="https://revive.today/wp-content/uploads/2021/06/ICON0-6.png">
+			<img src="/assets/img/psp-kvm-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://sourceforge.net/projects/pspkvm/files/pspkvm/v0.5.5/Release/pspkvm-bin-0.5.5-fr-cfw-allinone.zip/download">Download</a></p>
 			</div>
@@ -103,7 +103,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 	</div>
 </div>
 
-Missing anything? [Let us know](https://revive.today/contact/) or [join the Discord](https://revive.today/blog/revivetoday-now-on-discord/)!
+Missing anything? [Let us know](https://revive.today/contact/) or [join the Discord]({% post_url 2021-03-21-revivetoday-now-on-discord %})!
 
 ## Installing Applications
 

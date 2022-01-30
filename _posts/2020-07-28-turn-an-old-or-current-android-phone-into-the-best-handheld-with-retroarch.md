@@ -10,12 +10,12 @@ Yeah, we’ve been away for a bit. We’re sorry! But we’re here with a guide 
 
 ## Swiss Army Knife of Emulation
 
-![Screenshot of RetroArch app on Android, showing Super Mario Bros., Super Mario Bros 2, and Zelda II Adventure of Link as options.](https://revive.today/wp-content/uploads/2020/07/Screenshot_20200728-151223-1024x576.jpg)
+![Screenshot of RetroArch app on Android, showing Super Mario Bros., Super Mario Bros 2, and Zelda II Adventure of Link as options.](/assets/img/Screenshot_20200728-151223-1024x576.jpg)
 {: .article-image }
 
 If you don’t know what RetroArch is, you **need** to check it out. Rather than having a few different emulators to run your favourite games, RetroArch acts as one interface for all, and lets you load the emulators inside it. Essentially, you can stop playing a SNES game, and start up a PS1 classic without closing the application!
 
-If you checked out our guide for [building a Retro Console with RetroPie](https://revive.today/diy/raspberry-pi/), then congratulations – you’ve already been using it!
+If you checked out our guide for [building a Retro Console with RetroPie]({% link raspberry-pi.md %}), then congratulations – you’ve already been using it!
 
 RetroArch comes on [almost every platform known to mankind](https://www.retroarch.com/?page=platforms) (even runs on Windows 95!), but the one we obviously care about – It’s on the **[Play Store](https://play.google.com/store/apps/details?id=com.retroarch)**.
 
@@ -29,7 +29,7 @@ Don’t fret, it works on iOS too! However, it is not approved to be on the App 
 
 ### Physical Controls
 
-![Vertical orientated phone with Tetris on the top of the screen. The phone is encased in A Nintendo Switch style controller.](https://revive.today/wp-content/uploads/2020/07/IMG_20200728_200254-1-948x1024.jpg)
+![Vertical orientated phone with Tetris on the top of the screen. The phone is encased in A Nintendo Switch style controller.](/assets/img/IMG_20200728_200254-1-948x1024.jpg)
 {: .article-image }
 
 Tetris, anyone?

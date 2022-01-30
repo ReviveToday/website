@@ -9,7 +9,7 @@ Some retro-loving developers and publishers have kindly released their titles fo
 
 ### The Elder Scrolls: Arena & Daggerfall (DOS)
 
-![](https://revive.today/wp-content/uploads/2018/12/Screenshot-2018-12-08-at-00.41.39.png)
+![](/assets/img/Screenshot-2018-12-08-at-00.41.39.png)
 {: .article-image }
 
 Bethesda Softworks have released some of their original classics from the _Elder Scrolls_ franchise. These are the original releases designed for DOS, so you will need to be comfortable setting up games using DOSBox, or an old Windows 9x machine.
@@ -37,7 +37,7 @@ Editor’s note: At the time of first publish, they actually provided the o**rig
 
 ### Ur-Quan Masters – Star Control II (1992 – PC, 3DO)
 
-![](https://revive.today/wp-content/uploads/2018/12/Screenshot-2018-12-07-at-22.54.47.png)
+![](/assets/img/Screenshot-2018-12-07-at-22.54.47.png)
 {: .article-image }
 
 Explore the cosmos once again as captain of the Vindicator! The original developers (Toys for Bob) have released the source code for the space exploration hit _Star Control II_ to the public in 2002. This has since been picked up by a [team of programmers](http://sc2.sourceforge.net/team.php) and has been relaunched as _Ur-Quan Masters_, completely free on the PC.
