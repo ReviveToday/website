@@ -21,22 +21,24 @@ As more consoles get retro-status from the passage of time, we will continue to 
 <div class="container">
 	<div class="row g-2 pb-2 align-items-start">
 		{%- for post in site.posts limit:4 -%}
-		{% assign sep = forloop.index | modulo: 2 %}
+		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+		{%- assign sep = forloop.index | modulo: 2 -%}
 		<div class="col">
 			{%- if post.image -%}
 			<div class="rt-homegrid" style="background-image:url('{{- post.image | relative_url -}}')"></div>
 			{%- else -%}
 			<div class="rt-homegrid" style="background-image:url('/assets/img/rt-default-banner.png')"></div>
 			{%- endif -%}
-			<h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+			<h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>	
+			<span class="post-meta text-muted">Posted {{ post.date | date: date_format }}</span>
 			<div>
 				<p class="rt-button"><a href="{{ post.url | relative_url }}">Read More</a></p>
 			</div>
 		</div>
-		{% if sep == 0 %}
+		{%- if sep == 0 -%}
 		</div>
 		<div class="row g-2 pb-2 align-items-start">
-		{% endif %}
+		{%- endif -%}
 		{%- endfor -%}
 	</div>
 </div>
