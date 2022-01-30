@@ -17,7 +17,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 ## Emulators
 
 <div class="container text-center rt-psp-apps">
-	<div class="row g-2 align-items-start">
+	<div class="row g-2 pb-2 align-items-start">
 		<div class="col">
 			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-retroarch-bg.png')">
 				<h3>RetroArch</h3>
@@ -52,7 +52,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 		</div>
 	</div>
-	<div class="row g-2 align-items-start">
+	<div class="row g-2 pb-2 align-items-start">
 		<div class="col">
 			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-sms-bg.png')">
 				<h3>SMS+ PSP</h3>
