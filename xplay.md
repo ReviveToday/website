@@ -9,7 +9,9 @@ Years later, the phone is now a perfect device to be recycled as a **handheld ga
 
 Getting involved? There is an absolutely fantastic community for the device on **[Reddit](https://www.reddit.com/r/xperiaplay/)** (the [Wiki is absolutely vital](https://www.reddit.com/r/xperiaplay/wiki/index)) and on **[Discord](https://discord.gg/yZVtGEB)**, and the usual **[XDA Forum](https://forum.xda-developers.com/c/sony-ericsson-xperia-play.1090/)** gathering to compliment.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BGpt8E3YmNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="text-center">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BGpt8E3YmNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Not convinced yet? MVG gives a great rundown of the phone and where to buy.
 

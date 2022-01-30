@@ -15,6 +15,7 @@ Just want to see **HDMI** options? [**Skip to it here**](#cable-hdmi).
 ### RF (Aerial lead)
 
 ![RF Female port](/assets/img/port-rf.png)
+{: .article-image-sm }
 
 This is by far the _worst_ option of the lot. While this was never necessarily an option, the PS1 came with the RF lead that was compatible with the PS2. This option will most likely have the most support, but unless your TV came with absolutely no peripheral ports this will not be a concern.
 
@@ -25,6 +26,7 @@ This option can suffer from a lot of interference, and cannot pull out informati
 ### RCA Composite
 
 ![Group of RCA females](/assets/img/port-rca.png)
+{: .article-image-sm }
 
 RCA is the option that came with PS2 by default. The distinct characteristics are connectors split into three colours; red, yellow and white. Yellow provides the video through a composite output, with the red and white connectors controlling the audio. RCA also comes with a converter that lets you plug-in to a standard SCART port, especially in Europe.
 
@@ -35,6 +37,7 @@ Like RF, composite unfortunately suffers from an interference issue, but the int
 ### Component SCART
 
 ![SCART female port](/assets/img/port-scart.png)
+{: .article-image-sm }
 
 The SCART converter that comes with the PS2 only converts the RCA signals to the best it can achieve. However, SCART can achieve a lot more than just mere conversion. While composite is inferior, the dedicated SCART cable can transmit true RGB, a much cleaner, crisper picture.
 
@@ -45,6 +48,7 @@ For any standard definition TV that supports SCART, this is by far the best purc
 ### Component (YPBPR)
 
 ![Group of female component ports](/assets/img/port-component.png)
+{: .article-image-sm }
 
 The PS2 natively supports a YPBPR, so if your TV has native component ports they may be the best supported option you can go for.
 
@@ -55,6 +59,7 @@ This option comes with a small caveat – unless you have a SDTV connection comp
 ### HDMI
 
 ![Drawing of a HDMI port.](/assets/img/port-hdmi.png)
+{: .article-image-sm }
 
 HDMI is the de-facto port of the current generation of modern outputs – the kitchen sink of connections. HDMI can send huge swathes of digital video and audio in a seemingly small package. Except well, there’s the problem… **digital**.
 

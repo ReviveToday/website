@@ -8,6 +8,7 @@ Hand-in-hand with the PlayStation 2’s incredible history, the console has had 
 ## Original (Fat)
 
 ![An original PlayStation 2 console with a DualShock 2 controller in front.](/assets/img/PS2-Fat-Console-Set.jpeg)
+{: .article-image }
 
 * ✅ Console can be laid vertically or horizontally.
 * ✅ Uses an tray-loaded disc tray.
@@ -24,6 +25,7 @@ The console itself is quite bulky, yet it is still smaller than most DVD players
 ## Slimline
 
 ![A slimline design PlayStation 2 console with a DualShock 2 controller in front](/assets/img/PS2-Slim-Console-Set.jpeg)
+{: .article-image }
 
 * ✅ Slimmer design, allows for more flexible placement.
 * ✅ Built-in wired network (Ethernet).

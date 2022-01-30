@@ -17,7 +17,9 @@ As touched upon above, softmodding is the act of unleashing the full potential o
 
 Do you remember those adverts on TV (we’ve lost the younger audience here) for _Tony Hawks American Wasteland_? The main selling feature was no loading screens (well, _reduced_). Yes, the PS2 suffered from horrendous loading time issues, with most of the blame resting of the disc based operations of the system. With a small amount of RAM, the PS2 was almost constantly loading data off the CD or DVD, which was woefully slow. To make matters worse, the older ‘Phat’ consoles would normally have the laser burn out or the drive stop operating.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YD1bhqF8XvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="text-center">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YD1bhqF8XvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Here is where modding has a particularly bright light to shine. You can take the strain off the CD drive and move it elsewhere! If you had either a phat console, or the ability to cope with _increased_ waiting times, you could install your games to a hard drive. Hard drives are built to be resilient, and can cope brilliantly with the PS2’s heavy reliance on them.
 
