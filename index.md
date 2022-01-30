@@ -24,9 +24,9 @@ As more consoles get retro-status from the passage of time, we will continue to 
 		{% assign sep = forloop.index | modulo: 2 %}
 		<div class="col">
 			{%- if post.image -%}
-			<img style="width:100%" src="{{- post.image | relative_url -}}">
+			<div class="rt-homegrid" style="background-image:url('{{- post.image | relative_url -}}')"></div>
 			{%- else -%}
-			<img style="width:100%" src="/assets/img/rt-default-banner.png">
+			<div class="rt-homegrid" style="background-image:url('/assets/img/rt-default-banner.png')"></div>
 			{%- endif -%}
 			<h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
 			<div>
