@@ -19,6 +19,20 @@ a:hover {
     background-repeat: no-repeat;
 	color: $white;
 
+	.rt-site-logo {
+		width: 60px;
+		position: absolute;
+		top: 10px;
+		z-index: 5;
+	}
+
+	@media screen and (max-width: 1000px) {
+		.rt-site-logo {
+			width: 50px;
+			position: inherit;
+		}
+	}
+
 	a {
 		color: $white !important;
 	}

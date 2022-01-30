@@ -7,10 +7,10 @@ An ongoing project to convert the [ReviveToday website](https://revive.today) to
 * [x] PlayStation 3.
 * [x] PlayStation Portable.
 * [x] PlayStation Vita.
-* [ ] PSP CFW wizard.
+* [x] PSP CFW wizard.
 * [x] Xperia Play.
 * [x] Dreamcast.
 * [x] Nintendo DS.
 * [x] Free PC Games.
-* [ ] Legal & Privacy.
-* [ ] Contact.
+* [x] Legal & Privacy.
+* [x] Contact.
