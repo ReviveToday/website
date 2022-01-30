@@ -15,3 +15,7 @@ As more consoles get retro-status from the passage of time, we will continue to 
 * Directions to the most active and trusted platform communities.
 
 **What are you waiting for? Join us on the retro revival!**
+
+<div class="text-center">
+	<p class="rt-button"><a href="{% link blog/index.html %}">View the archive</a></p>
+</div>
