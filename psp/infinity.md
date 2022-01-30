@@ -4,6 +4,7 @@ layout: page
 ---
 
 ![](/assets/img/rocket-psp.png)
+{: .article-image }
 
 Infinity has roots in custom firmware, but is not – in itself – a custom firmware. Instead, it grants your PSP the ability to turn into Buzz Lightyear install ‘hybrid’ custom firmwares instead of just one. And due to the special nature of operations, it can **make CFW for all (but street) PSP’s permanent!**
 
@@ -32,6 +33,7 @@ If you are one of the unfortunate people to have a PSP with restrictive hardware
 ## How do I install it?
 
 There is a chance of bricking your PSP. Please back up before proceeding, and only attempt this if you are certain. Give a shout in the comment box below if you need help!
+{: .rt-alert .warning}
 
 You will be needing:
 
@@ -45,11 +47,12 @@ You will be needing:
 
 Here you can download Infinity. Please choose the right version for your PSP.
 
-[Infinity](https://infinity.lolhax.org/)
+<div class="text-center">
+	<p class="rt-button"><a href="https://infinity.lolhax.org/">Infinity</a></p>
+	<p class="rt-button"><a href="https://github.com/DaveeFTW/Chronoswitch/releases">Chronoswitch</a></p>
+</div>
 
-[Chronoswitch](https://github.com/DaveeFTW/Chronoswitch/releases)
-
-_Optional. OFW also needed (covered below)_
+_Chronoswitch is optional. OFW also needed (covered below)_
 
 If you prefer a video installation, there’s a fantastic [step-by-step video on YouTube here](https://youtu.be/HsfSaDsswUo).
 
@@ -98,6 +101,8 @@ Plug your PSP into your PC and enable USB transfer mode, or plug your memory sti
 Copy the **EBOOT.PSP** from the folder of your device, and paste it into **PSP/GAME/UPDATE**. Once done, it should appear within the Games > Memory Stick folder on your PSP.
 
 ![](/assets/img/ICON0-1.png)
+
+Infinity
 
 Open it, and wait at the black screen for a while. You should eventually be greeted with **Infinity Version 2.0.XX**. Press X for install, and then soon after press X again to reboot your PSP.
 
