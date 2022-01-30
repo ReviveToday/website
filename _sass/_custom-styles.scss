@@ -142,8 +142,9 @@ a:hover {
 }
 
 .rt-button {
+	border: none;
 	background-color: #138e96 !important;
-	border-bottom: solid .2em #0b4e53;
+	border-bottom: solid .2em #0b4e53 !important;
 	text-shadow: 0 1px 1px #000;
 	border-radius: 0;
 	margin: 20px 0;

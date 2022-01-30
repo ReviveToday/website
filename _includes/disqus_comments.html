@@ -1,0 +1,33 @@
+{%- if page.comments != false and jekyll.environment == "production" -%}
+
+	<hr>
+
+	<div id="load_disqus" class="text-center">
+		<button class="rt-button" onclick="load_comments()">Load Discussion (Disqus)</button>
+		{%- if site.disqus.show_policy == true -%}
+		<p>By clicking on this button you are agreeing to the <a href="https://help.disqus.com/en/articles/1717103-disqus-privacy-policy">Disqus privacy policy</a>.</p>
+		{%- endif -%}
+	</div>
+
+	<div id="disqus_thread"></div>
+
+	<script>
+		var disqus_config = function () {
+			this.page.url = '{{ page.url | absolute_url }}';
+			this.page.identifier = '{{ page.url | absolute_url }}';
+		};
+
+		function load_comments() {
+			document.getElementById("load_disqus").remove();
+
+			(function() {
+				var d = document, s = d.createElement('script');
+
+				s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+			})();
+		}
+	</script>
+{%- endif -%}
