@@ -1,5 +1,9 @@
 # ReviveToday Website
 
+<p align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+</p>
+
 ![Screenshot 2022-01-30 at 22 37 01](https://user-images.githubusercontent.com/11209477/151720833-73527e6f-6575-44db-ba2a-f61163db2d99.png)
 
 The ReviveToday website, built and composed with **Jekyll** and deployed onto **GitHub Pages**. 
