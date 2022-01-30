@@ -16,9 +16,9 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 
 ## Emulators
 
-<div class="container text-center">
+<div class="container text-center rt-psp-apps">
 	<div class="row align-items-start">
-		<div class="col" style="background-image:url('/assets/img/psp-retroarch-bg.png')">
+		<div class="col" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-retroarch-bg.png')">
 			<h3>RetroArch</h3>
 			<p><strong>Multi-platform</strong></p>
 			<img src="/assets/img/psp-retroarch-logo.png">
@@ -27,7 +27,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 			<p>(<a href="https://www.retroarch.com/?page=platforms">source</a>)</p>
 		</div>
-		<div class="col" style="background-image:url('/assets/img/psp-rin-bg.png')">
+		<div class="col" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-rin-bg.png')">
 			<h3>RIN</h3>
 			<p><strong>Gameboy (Color)</strong></p>
 			<img src="/assets/img/psp-rin-logo.png">
@@ -36,7 +36,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 			<p>(<a href="https://github.com/mbarczak/psp_rin">source</a>)</p>
 		</div>
-		<div class="col" style="background-image:url('/assets/img/psp-gpsp-bg.png')">
+		<div class="col" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-gpsp-bg.png')">
 			<h3>uo gpSP Kai</h3>
 			<p><strong>Gameboy Advance</strong></p>
 			<img src="/assets/img/psp-gpsp-logo.png">
@@ -47,7 +47,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		</div>
 	</div>
 	<div class="row align-items-start">
-		<div class="col" style="background-image:url('/assets/img/psp-sms-bg.png')">
+		<div class="col" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-sms-bg.png')">
 			<h3>SMS+ PSP</h3>
 			<p><strong>SEGA Master System</strong></p>
 			<img src="/assets/img/psp-sms-logo.png">
@@ -56,7 +56,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 			<p>(<a href="http://psp.akop.org/smsplus.htm">source</a>)</p>
 		</div>
-		<div class="col" style="background-image:url('/assets/img/psp-dgen-logo.png')">
+		<div class="col" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-dgen-logo.png')">
 			<h3>DGEN</h3>
 			<p><strong>SEGA Mega Drive/Genesis</strong></p>
 			<img src="/assets/img/psp-dgen-logo.png">
@@ -76,7 +76,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>Fusa Gamepad</h3>
 			<p><strong>Physical Controller Emulator</strong></p>
-			<img src="/assets/img/psp-fusa.png">
+			<img src="/assets/img/psp-fusa-logo.png">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/FusaGamePad.zip">Download</a></p>
 			</div>

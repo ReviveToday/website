@@ -207,6 +207,19 @@ a:hover {
 	}
 }
 
+.rt-psp-apps {
+	.col {
+		background-size: cover;
+		background-position: center;
+	}
+}
+
+.rt-psvita-apps {
+	img {
+		border-radius: 9999px;
+	}
+}
+
 .rt-bordering {
 	background-color: #ffffff;
 	border: 1px solid #dadada;
