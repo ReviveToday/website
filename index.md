@@ -16,6 +16,31 @@ As more consoles get retro-status from the passage of time, we will continue to 
 
 **What are you waiting for? Join us on the retro revival!**
 
+## News & Blog
+
+<div class="container">
+	<div class="row g-2 pb-2 align-items-start">
+		{%- for post in site.posts limit:4 -%}
+		{% assign sep = forloop.index | modulo: 2 %}
+		<div class="col">
+			{%- if post.image -%}
+			<img style="width:100%" src="{{- post.image | relative_url -}}">
+			{%- else -%}
+			<img style="width:100%" src="/assets/img/rt-default-banner.png">
+			{%- endif -%}
+			<h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+			<div>
+				<p class="rt-button"><a href="{{ post.url | relative_url }}">Read More</a></p>
+			</div>
+		</div>
+		{% if sep == 0 %}
+		</div>
+		<div class="row g-2 pb-2 align-items-start">
+		{% endif %}
+		{%- endfor -%}
+	</div>
+</div>
+
 <div class="text-center">
 	<p class="rt-button"><a href="{% link blog/index.html %}">View the archive</a></p>
 </div>
