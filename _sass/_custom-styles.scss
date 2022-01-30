@@ -2,6 +2,16 @@ body {
 	background-color: #f2f2f2;
 }
 
+a {
+	color: $rt-color-main;
+	text-decoration: none;
+}
+
+a:hover {
+	color: $rt-color-main;
+	text-decoration: underline;
+}
+
 .navbar {
 	background-color: $rt-color-main;
 	border-bottom: 0.25em solid $rt-color-dark;
