@@ -63,10 +63,10 @@ To do this you need.
 * 2.5″ IDE to SD Card adapter.
 * SD card extension slot (optional).
 
-![](/assets/img/IMG_20180823_171903.jpeg)
+![](/assets/img/IMG_20180823_171903.webp)
 {: .article-image }
 
-![](/assets/img/IMG_20180823_172157-e1581028248691.jpeg)
+![](/assets/img/IMG_20180823_172157-e1581028248691.webp)
 {: .article-image }
 
 ![Top of the PlayStation 2 showing the extended SD card enclosure, with an SD card in.](/assets/img/IMG_20180823_172719-e1542574534675.jpg)
@@ -105,14 +105,14 @@ Also, the PS2 came from the years when WiFi was only just coming into fruition, 
 
 Create a folder called ‘**PS2SMB**‘. In this PS2SMB folder, create ‘CD’ and ‘DVD’ folders. Once OPL hooks into the storage, so long as permissions are correct it will generate the rest of the required folder structure. Game ISOs below 700mb in size go in CD, and the rest go in DVD.
 
-![A screenshot of Windows 10 File Browser inside a folder called 'PS2SMB' with the folders 'CD' and 'DVD' inside.](/assets/img/2020-02-21.png)
+![A screenshot of Windows 10 File Browser inside a folder called 'PS2SMB' with the folders 'CD' and 'DVD' inside.](/assets/img/2020-02-21.webp)
 {: .article-image }
 
 Start off with something like this.
 
 Right click on the PS2SMB folder and click on **Properties**. Navigate to the **Sharing** tab and click on **Advanced Sharing**. Enable **Share this folder**, and set **Everyone** to full permission in **Permissions**.
 
-![](/assets/img/2020-02-21-3.png)
+![](/assets/img/2020-02-21-3.webp)
 {: .article-image }
 
 #### Set NAS/PC to a static IP address

@@ -37,7 +37,7 @@ Ensure you can connect your IDE drive to your computer, either through a USB con
 ### Connect drive and open WinHIIP
 {: #winhiip }
 
-![WinHIIP program reporting no drive has been selected](/assets/img/Screen-Shot-2016-09-04-at-21.32.58.png)
+![WinHIIP program reporting no drive has been selected](/assets/img/Screen-Shot-2016-09-04-at-21.32.58.webp)
 {: .article-image }
 
 Open the folder where you extracted WinHIIP and find WinHIIP.exe. **Right click and run this as Administrator** (Vista and above). When you open the WinHIIP software you will be given a screen similar to above. Most of the controls here are greyed out because they need to know which drive you wish to use before you continue. The drive you select will need to be your IDE drive you wish to dedicate for your PlayStation.
@@ -49,12 +49,12 @@ Select the drive you wish to use with your PS2. However, you need a particular d
 
 Once your drive has been selected (if you are unsure, open ‘Computer Management’ and check ‘Disk Management’, it will say which drive number is what). You will be greeted with the following dialog.
 
-![Windows Dialog says "The selected hard drive does not have a valid PS2 Master Boot Record"](/assets/img/Screen-Shot-2016-09-04-at-22.45.22.png)
+![Windows Dialog says "The selected hard drive does not have a valid PS2 Master Boot Record"](/assets/img/Screen-Shot-2016-09-04-at-22.45.22.webp)
 {: .article-image }
 
 All this means is that you have selected a normal hard drive, when the system wants a PS2 formatted drive. This enables the button at the bottom ‘Format Drive’. Click it and you will be greeted with this.
 
-![Options to format a drive in WinHIIP](/assets/img/Screen-Shot-2016-09-04-at-22.45.35.png)
+![Options to format a drive in WinHIIP](/assets/img/Screen-Shot-2016-09-04-at-22.45.35.webp)
 {: .article-image }
 
 Unless you have advanced knowledge with Linux drives and HDLoader, you do not need to touch all these left-side options. All you need to worry about are the options on the right.
@@ -69,41 +69,41 @@ This is important – you want either HDLoader 24bit or 48bit. In almost all cas
 
 Once you’re happy with your options and you’re **100% sure** the drive is the correct one, you can format it. This process takes a while, so best time to have a cup of tea or coffee if you are so inclined.
 
-![Drive being erased in WinHIIP](/assets/img/Screen-Shot-2016-09-04-at-22.58.39.png)
+![Drive being erased in WinHIIP](/assets/img/Screen-Shot-2016-09-04-at-22.58.39.webp)
 {: .article-image }
 
 Once this process has finished, you should see a screen similar to this. If so, congratulations! Your drive is now PS2-ready – But we’re not finished yet!
 
-![A drive formatted as PS2 in WinHIIP](/assets/img/Screen-Shot-2016-09-04-at-23.13.24.png)
+![A drive formatted as PS2 in WinHIIP](/assets/img/Screen-Shot-2016-09-04-at-23.13.24.webp)
 {: .article-image }
 
 ### Installing FreeHDBoot via HDD Raw Copy Magic
 
 Now we have a drive that is PS2-formatted and ready to go, we need to give it the FreeHDBoot software.
 
-![HDD Raw Copy showing a list of drives](/assets/img/Screen-Shot-2016-09-04-at-23.18.38.png)
+![HDD Raw Copy showing a list of drives](/assets/img/Screen-Shot-2016-09-04-at-23.18.38.webp)
 {: .article-image }
 
 For this you will need to know the size and model of your drive, so that you can identify which one is your IDE drive. Your drive will always have a ‘BUS’ of ‘ATA’, and the model will reflect what was on the top of the hard drive. For our guide our drive is called _VMWare Virtual IDE Hard Drive_.
 
 Here we are selecting the source, which is what we will be copying _to_ the drive. We aren’t cloning a physical disk but rather a copy you downloaded earlier, so double click on the FILE option.
 
-![Windows File dialog selecting a file](/assets/img/Screen-Shot-2016-09-04-at-23.19.38.png)
+![Windows File dialog selecting a file](/assets/img/Screen-Shot-2016-09-04-at-23.19.38.webp)
 {: .article-image }
 
 Select the image file downloaded earlier (in the folder you extracted, ending with .imgc). This should add an extra option to the list, a drive you will likely be unfamiliar with.
 
 Select this unfamiliar drive (will still be called FILE under BUS), and click continue.
 
-![HDD Raw Copy showing destination drives](/assets/img/Screen-Shot-2016-09-04-at-23.19.59.png)
+![HDD Raw Copy showing destination drives](/assets/img/Screen-Shot-2016-09-04-at-23.19.59.webp)
 {: .article-image }
 
-![HDD Raw Copy with drive image listed](/assets/img/Screen-Shot-2016-09-04-at-23.19.45.png)
+![HDD Raw Copy with drive image listed](/assets/img/Screen-Shot-2016-09-04-at-23.19.45.webp)
 {: .article-image }
 
 We are now selecting the target drive, which will be our magical PS2 drive we created earlier. Select it from the list, and click continue once more. This will take us to the final stage.
 
-![HDD Raw Copy copying a disc image to our new disk](/assets/img/Screen-Shot-2016-09-04-at-23.20.15.png)
+![HDD Raw Copy copying a disc image to our new disk](/assets/img/Screen-Shot-2016-09-04-at-23.20.15.webp)
 {: .article-image }
 
 Confirm you are happy with all the selections, and then click START. This is another long process, so nobody will blame you if you enjoy another cup of your favourite beverage. Once the process has finished, your drive will be PS2 formatted with a copy of FreeHDBoot loaded up to it, ready to go!

@@ -1,6 +1,6 @@
 ---
 title:  Dreamcast next up on RT
-image: /assets/img/Dreamcast_Logo-300x225.jpeg
+image: /assets/img/Dreamcast_Logo-300x225.webp
 layout: post
 tags:   [Consoles, Support]
 ---

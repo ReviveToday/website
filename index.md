@@ -27,7 +27,7 @@ As more consoles get retro-status from the passage of time, we will continue to 
 			{%- if post.image -%}
 			<div class="rt-homegrid" style="background-image:url('{{- post.image | relative_url -}}')"></div>
 			{%- else -%}
-			<div class="rt-homegrid" style="background-image:url('/assets/img/rt-default-banner.png')"></div>
+			<div class="rt-homegrid" style="background-image:url('/assets/img/rt-default-banner.webp')"></div>
 			{%- endif -%}
 			<h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>	
 			<span class="post-meta text-muted">Posted {{ post.date | date: date_format }}</span>

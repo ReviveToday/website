@@ -19,10 +19,10 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 <div class="container text-center rt-psp-apps">
 	<div class="row g-2 pb-2 align-items-start">
 		<div class="col">
-			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-retroarch-bg.png')">
+			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-retroarch-bg.webp')">
 				<h3>RetroArch</h3>
 				<p><strong>Multi-platform</strong></p>
-				<img src="/assets/img/psp-retroarch-logo.png">
+				<img src="/assets/img/psp-retroarch-logo.webp">
 				<div>
 					<p class="rt-button"><a href="http://buildbot.libretro.com/stable/1.9.5/playstation/psp/RetroArch.7z">Download</a></p>
 				</div>
@@ -30,10 +30,10 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 		</div>
 		<div class="col">
-			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-rin-bg.png')">
+			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-rin-bg.webp')">
 				<h3>RIN</h3>
 				<p><strong>Gameboy (Color)</strong></p>
-				<img src="/assets/img/psp-rin-logo.png">
+				<img src="/assets/img/psp-rin-logo.webp">
 				<div>
 					<p class="rt-button"><a href="https://github.com/mbarczak/psp_rin/releases/download/v2.0/RIN_1_32_RM_v2_0.zip">Download</a></p>
 				</div>
@@ -41,10 +41,10 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 		</div>
 		<div class="col">
-			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-gpsp-bg.png')">
+			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-gpsp-bg.webp')">
 				<h3>uo gpSP Kai</h3>
 				<p><strong>Gameboy Advance</strong></p>
-				<img src="/assets/img/psp-gpsp-logo.png">
+				<img src="/assets/img/psp-gpsp-logo.webp">
 				<div>
 					<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2018/02/UO-gpSP-kai-v3.4-test-4-build-225.zip">Download</a></p>
 				</div>
@@ -54,10 +54,10 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 	</div>
 	<div class="row g-2 pb-2 align-items-start">
 		<div class="col">
-			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-sms-bg.png')">
+			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-sms-bg.webp')">
 				<h3>SMS+ PSP</h3>
 				<p><strong>SEGA Master System</strong></p>
-				<img src="/assets/img/psp-sms-logo.png">
+				<img src="/assets/img/psp-sms-logo.webp">
 				<div>
 					<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/smsplus-1.3.1-1.0.zip">Download</a></p>
 				</div>
@@ -65,10 +65,10 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			</div>
 		</div>
 		<div class="col">
-			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-dgen-logo.png')">
+			<div class="picto p-3" style="background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('/assets/img/psp-dgen-logo.webp')">
 				<h3>DGEN</h3>
 				<p><strong>SEGA Mega Drive/Genesis</strong></p>
-				<img src="/assets/img/psp-dgen-logo.png">
+				<img src="/assets/img/psp-dgen-logo.webp">
 				<div>
 					<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2018/02/DGEN_170_Lite.zip">Download</a></p>
 				</div>
@@ -86,7 +86,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>Fusa Gamepad</h3>
 			<p><strong>Physical Controller Emulator</strong></p>
-			<img src="/assets/img/psp-fusa-logo.png">
+			<img src="/assets/img/psp-fusa-logo.webp">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/FusaGamePad.zip">Download</a></p>
 			</div>
@@ -95,7 +95,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>PSPDisp</h3>
 			<p><strong>PSP as Monitor (ADVANCED)</strong></p>
-			<img src="/assets/img/psp-pspdisp-logo.png">
+			<img src="/assets/img/psp-pspdisp-logo.webp">
 			<div>
 				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/PSPdisp.zip">Download</a></p>
 			</div>
@@ -104,7 +104,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 		<div class="col">
 			<h3>PSPKVM</h3>
 			<p><strong>Java Applet Support</strong></p>
-			<img src="/assets/img/psp-kvm-logo.png">
+			<img src="/assets/img/psp-kvm-logo.webp">
 			<div>
 				<p class="rt-button"><a href="https://sourceforge.net/projects/pspkvm/files/pspkvm/v0.5.5/Release/pspkvm-bin-0.5.5-fr-cfw-allinone.zip/download">Download</a></p>
 			</div>

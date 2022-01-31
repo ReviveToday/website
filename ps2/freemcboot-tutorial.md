@@ -38,22 +38,22 @@ The FreeMCBot package comes with a file that ends with .ELF. ELF file are execut
 
 Firstly, download the files above and place them on a FAT/FAT32 formatted memory stick. Extract the entire zip archive onto the memory stick, as all the files in the zip archive are required for the console to be able to open it. Safely eject the memory stick from your machine to ensure the files are correctly written to the memory stick, and then transfer it to the PS2.
 
-![ULaunchELF displaying the contents of a memory stick](/assets/img/DSC_0011_O.jpeg)
+![ULaunchELF displaying the contents of a memory stick](/assets/img/DSC_0011_O.webp)
 {: .article-image }
 
 Boot up the PS2 and open up uLaunchELF. Navigate to MASS:/ to access the memory stick we have plugged in. The memory stick should show up similar to above (files beginning with a dot is junk from my mac, which may not be there for you – which is fine). If so, launch up FMCBInstaller.elf.
 
-![FMCB Installer main menu](/assets/img/DSC_0012_O.jpeg)
+![FMCB Installer main menu](/assets/img/DSC_0012_O.webp)
 {: .article-image }
 
 The launcher will display the FreeMCBoot Installer, a multi-purpose tool which will allow you to prep a memory card for FreeMCBoot, as well as install FreeHDBoot to a hard drive and various other memory card related functions. For the purposes of preparing FreeMCBoot for another console, we will need Multi-install.
 
-![FMCB Installer displaying a multi-install warning](/assets/img/DSC_0013_O.jpeg)
+![FMCB Installer displaying a multi-install warning](/assets/img/DSC_0013_O.webp)
 {: .article-image }
 
 The FMCB installer will warn you about the multi-installation process. So long as you backed up your Memory Card, this should be okay. The warning is that the filesystem needs to be modified to allow all systems to be able to read the FreeMCBoot exploit, which is obviously not a designed function for the Memory Card. If something goes wrong during install, your Memory Card could become corrupted. FMCB Installer can revive the Memory Card, but your save data will be lost. If you back up your saves, you will be fine. If you do not back up, beware.
 
-![FMCB installer installing on a memory card](/assets/img/DSC_0014_O.jpeg)
+![FMCB installer installing on a memory card](/assets/img/DSC_0014_O.webp)
 {: .article-image }
 
 The system will then ask you what memory card you will like exploited. If only one is present in the Memory Card slots, it will automatically detect it. Select OK and the FMCB Installer will proceed to exploiting your Memory Card with FreeMCBoot.
@@ -62,7 +62,7 @@ Once the installation is complete, you can safely exit out of the installer. Onc
 
 ## FreeMCBoot
 
-![The FreeMCBoot PS2 Menu](/assets/img/DSC_0001_O.jpeg)
+![The FreeMCBoot PS2 Menu](/assets/img/DSC_0001_O.webp)
 {: .article-image }
 
 When you boot your PS2 up with the FreeMCBoot memory card inserted, you will find the boot sequence will not execute. Also, instead of just ‘Browser’ and ‘System Configuration’, you should now have a lot more options available. If so, congratulations you have successfully softmodded your console!

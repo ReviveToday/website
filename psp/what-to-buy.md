@@ -10,7 +10,7 @@ layout: page
 
 ## 1000
 
-![PSP 1000 in Piano Black](/assets/img/PSP-1000.jpeg)
+![PSP 1000 in Piano Black](/assets/img/PSP-1000.webp)
 
 * CPU: 333 Mhz
 * Memory: 32 MB
@@ -26,7 +26,7 @@ layout: page
 
 ## 2000
 
-![PSP 2000 in Piano Black](/assets/img/PSP-2000.jpeg)
+![PSP 2000 in Piano Black](/assets/img/PSP-2000.webp)
 
 * CPU: 333 Mhz
 * Memory: **64 MB**
@@ -42,7 +42,7 @@ layout: page
 
 ## 3000
 
-![PSP 3000 in Silver](/assets/img/PSP-3000-Silver.jpeg)
+![PSP 3000 in Silver](/assets/img/PSP-3000-Silver.webp)
 
 * CPU: 333 Mhz
 * Memory: **64 MB**
@@ -58,7 +58,7 @@ layout: page
 
 ## Go
 
-![PSP Go in Piano Black](/assets/img/PSP-Go.jpeg)
+![PSP Go in Piano Black](/assets/img/PSP-Go.webp)
 
 * CPU: 333 Mhz
 * Memory: **64 MB**

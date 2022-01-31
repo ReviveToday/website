@@ -3,7 +3,7 @@ title: PSP Infinity
 layout: page
 ---
 
-![](/assets/img/rocket-psp.png)
+![](/assets/img/rocket-psp.webp)
 {: .article-image }
 
 Infinity has roots in custom firmware, but is not – in itself – a custom firmware. Instead, it grants your PSP the ability to turn into Buzz Lightyear install ‘hybrid’ custom firmwares instead of just one. And due to the special nature of operations, it can **make CFW for all (but street) PSP’s permanent!**
@@ -70,11 +70,11 @@ When you download the file, you should recieve an **EBOOT.PBP** file (if you dow
 
 Eject from your PC, and you should have these two new apps to launch.
 
-![](/assets/img/ICON0.png)
+![](/assets/img/ICON0.webp)
 
 PSP 6.61 Update
 
-![](/assets/img/ICON1.png)
+![](/assets/img/ICON1.webp)
 
 Chronoswitch
 
@@ -100,7 +100,7 @@ Plug your PSP into your PC and enable USB transfer mode, or plug your memory sti
 
 Copy the **EBOOT.PSP** from the folder of your device, and paste it into **PSP/GAME/UPDATE**. Once done, it should appear within the Games > Memory Stick folder on your PSP.
 
-![](/assets/img/ICON0-1.png)
+![](/assets/img/ICON0-1.webp)
 
 Infinity
 

@@ -1,6 +1,6 @@
 ---
 title:  Turn an old (or current) Android Phone into the Best Handheld with RetroArch!
-image: /assets/img/IMG_20200727_204844.jpeg
+image: /assets/img/IMG_20200727_204844.webp
 layout: post
 tags:   [Custom, Handheld]
 ---

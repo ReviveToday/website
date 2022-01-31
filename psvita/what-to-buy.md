@@ -14,7 +14,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 **PCH-1000**
 
-![](/assets/img/PlayStation-Vita-1.jpeg)
+![](/assets/img/PlayStation-Vita-1.webp)
 
 * CPU: ARM Cortex-A9 Quad Core
 * Memory: 512 MB
@@ -31,7 +31,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 **PCH-2000**
 
-![](/assets/img/PlayStation-Vita-2.jpeg)
+![](/assets/img/PlayStation-Vita-2.webp)
 
 * CPU: ARM Cortex-A9 Quad Core
 * Memory: 512 MB
@@ -46,7 +46,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 ## Vita TV
 
-![](/assets/img/PlayStation-TV.jpeg)
+![](/assets/img/PlayStation-TV.webp)
 
 * CPU: ARM Cortex-A9 Quad Core
 * Memory: 512 MB

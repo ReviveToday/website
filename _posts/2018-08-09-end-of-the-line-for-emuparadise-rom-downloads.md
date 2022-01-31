@@ -1,6 +1,6 @@
 ---
 title:  End of the Line for Emuparadise ROM Downloads
-image: /assets/img/emuparadise.png
+image: /assets/img/emuparadise.webp
 layout: post
 tags:   [Roms]
 ---

@@ -58,7 +58,7 @@ This controller is still being tested
 
 _Tested with: Need for Speed: Most Wanted, Grand Theft Auto – Liberty City Stories, Driv3r. Battery life still being tested._
 
-![PS2 controller](/assets/img/img_7007-e1473362819671.jpeg)
+![PS2 controller](/assets/img/img_7007-e1473362819671.webp)
 {: .article-image }
 
 I’m a sucker for OEM. I always believe there is nothing better than the original design, so I normally stick to official purchases. However, Sony only ever released one wireless controller for the PS2 and it takes a lot of searching to get your hands on one.
@@ -67,7 +67,7 @@ I came across TPFOON on Amazon, selling what looked like convincingly OEM-styled
 
 On AliExpress is an official retail store for TPFOON, which made the controllers a lot cheaper. For £8 I thought this product could be worth the risk, And so far it has paid off.
 
-![PS2 Wireless and wired controllers](/assets/img/img_7009-e1473363127215.jpeg)
+![PS2 Wireless and wired controllers](/assets/img/img_7009-e1473363127215.webp)
 {: .article-image }
 
 Big difference, but big similarities
