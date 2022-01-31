@@ -67,14 +67,14 @@ Like your computer has Windows / macOS installed on it, we need to install an op
 
 Install SD Formatter from the SD Association mentioned above. Once installed this tool will be effective in setting up the MicroSD card for initial use.
 
-![SD Formatter window](https://revive.today/wp-content/uploads/2016/12/Capture.webp)
+![SD Formatter window](/assets/img/rpi-sdf-window.webp)
 {: .article-image }
 
 Select the Drive of the one you plugged in (unless you have other SD adapters and USB sticks plugged in, there should only be one listed) and click Format. Accept the warning and your SD card will be primed for the operating system.
 
 Next, open Win32DiskImager (different tool needed for Macs).
 
-![Disk Imager set to write RetroPie](https://revive.today/wp-content/uploads/2016/12/Capture-1.webp)
+![Disk Imager set to write RetroPie](/assets/img/rpi-dskimg-window.webp)
 {: .article-image }
 
 Select your extracted image file (ends with .img), and change the device to your MicroSD card (should match the same drive letter as SD Formatter used), then click Write. This will write the RetroPie operating system to the MicroSD card, and once finished it can be put in to the Raspberry Pi and executed.
@@ -133,7 +133,7 @@ All is not lost, as you can rip the content off the disc and store them on the P
 Revive Today does not condone Copyright violation. Wise up to your country’s Copyright laws, and do so at your own risk.
 {: .rt-alert .warning}
 
-![Screenshot of Firefox browsing emuparadise](https://revive.today/wp-content/uploads/2016/12/Screen-Shot-2017-07-19-at-19.35.27.webp)
+![Screenshot of Firefox browsing emuparadise](/assets/img/emuparadise.webp)
 {: .article-image }
 
 Not often will you pop into your local game store and see a fresh copy of Mario Kart for the N64 being sold. Nor can you go ahead and shove your game cartridge onto Raspberry Pi. So what can you do?
