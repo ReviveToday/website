@@ -26,13 +26,13 @@ To install the update you need to do the following:
 	<div class="row align-items-start">
 		<div class="col">
             <div>
-				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2016/08/PSP-Update-661.zip">6.61 Firmware</a></p>
+				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/ofw/PSP-Update-661.zip">6.61 Firmware</a></p>
 			</div>
             <p><a href="http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP">Sony Download</a></p>
         </div>
         <div class="col">
             <div>
-				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2016/08/PSP-Update-660.zip">6.60 Firmware</a></p>
+				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/ofw/PSP-Update-660.zip">6.60 Firmware</a></p>
 			</div>
             <p><a href="http://du01.psp.update.playstation.org/update/psp/image/us/2011_0810_2ca64d59dcf48f45fb99b400a586b395/EBOOT.PBP">Sony Download</a></p>
         </div>
@@ -47,7 +47,7 @@ If in doubt, go for 6.60. If you’re on 6.61, you can stay here and still enjoy
 	<div class="row align-items-start">
 		<div class="col">
             <div>
-				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2016/08/PSP-Go-Update-661-1.zip">6.61 (Go) Download</a></p>
+				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/ofw/PSP-Go-Update-661.zip">6.61 (Go) Download</a></p>
 			</div>
             <p><a href="http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP">Sony Download</a></p>
         </div>

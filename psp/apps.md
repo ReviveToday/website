@@ -46,7 +46,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 				<p><strong>Gameboy Advance</strong></p>
 				<img src="/assets/img/psp-gpsp-logo.webp">
 				<div>
-					<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2018/02/UO-gpSP-kai-v3.4-test-4-build-225.zip">Download</a></p>
+					<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/UO-gpSP-kai-v3.4-test-4-build-225.zip">Download</a></p>
 				</div>
 				<p>(<span class="text-muted">source</span>)</p>
 			</div>
@@ -59,7 +59,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 				<p><strong>SEGA Master System</strong></p>
 				<img src="/assets/img/psp-sms-logo.webp">
 				<div>
-					<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/smsplus-1.3.1-1.0.zip">Download</a></p>
+					<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/smsplus-1.3.1-1.0.zip">Download</a></p>
 				</div>
 				<p>(<a href="http://psp.akop.org/smsplus.htm">source</a>)</p>
 			</div>
@@ -70,7 +70,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 				<p><strong>SEGA Mega Drive/Genesis</strong></p>
 				<img src="/assets/img/psp-dgen-logo.webp">
 				<div>
-					<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2018/02/DGEN_170_Lite.zip">Download</a></p>
+					<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/DGEN_170_Lite.zip">Download</a></p>
 				</div>
 				<p>(<a href="http://dgen.sourceforge.net/">source</a>)</p>
 			</div>
@@ -88,7 +88,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			<p><strong>Physical Controller Emulator</strong></p>
 			<img src="/assets/img/psp-fusa-logo.webp">
 			<div>
-				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/FusaGamePad.zip">Download</a></p>
+				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/FusaGamePad.zip">Download</a></p>
 			</div>
 			<p>(<span class="text-muted">source</span>)</p>
 		</div>
@@ -97,7 +97,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			<p><strong>PSP as Monitor (ADVANCED)</strong></p>
 			<img src="/assets/img/psp-pspdisp-logo.webp">
 			<div>
-				<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2021/06/PSPdisp.zip">Download</a></p>
+				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/PSPdisp.zip">Download</a></p>
 			</div>
 			<p>(<span class="text-muted">source</span>)</p>
 		</div>
@@ -113,7 +113,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 	</div>
 </div>
 
-Missing anything? [Let us know](https://revive.today/contact/) or [join the Discord]({% post_url 2021-03-21-revivetoday-now-on-discord %})!
+Missing anything? [join the Discord]({% post_url 2021-03-21-revivetoday-now-on-discord %})!
 
 ## Installing Applications
 

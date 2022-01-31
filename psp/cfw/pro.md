@@ -30,11 +30,11 @@ Ensure you download the version that matches your PSP firmware. If your firmware
 {: .rt-alert .warning}
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2017/05/620_PRO-C2_14-02-2015.zip">PRO-C2 6.20</a></p>
-	<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2017/05/635_PRO-C2_14-02-2015.zip">PRO-C2 6.35</a></p>
-	<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2017/05/639_PRO-C2_14-02-2015.zip">PRO-C2 6.39</a></p>
-	<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2017/05/660_PRO-C2_14-02-2015.zip">PRO-C2 6.60</a></p>
-	<p class="rt-button"><a href="https://revive.today/wp-content/uploads/2017/05/661_PRO-C2_14-02-2015.zip">PRO-C2 6.61</a></p>
+	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/620_PRO-C2_14-02-2015.zip">PRO-C2 6.20</a></p>
+	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/635_PRO-C2_14-02-2015.zip">PRO-C2 6.35</a></p>
+	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/639_PRO-C2_14-02-2015.zip">PRO-C2 6.39</a></p>
+	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/660_PRO-C2_14-02-2015.zip">PRO-C2 6.60</a></p>
+	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/661_PRO-C2_14-02-2015.zip">PRO-C2 6.61</a></p>
 </div>
 
 ## Setup

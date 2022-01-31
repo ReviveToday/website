@@ -5,7 +5,7 @@ layout: post
 
 **You have probably heard by now, that we’ll be waving goodbye to the PS3, PSP and PSVita PlayStation Stores this year.**
 
-If not, you can find **more information** out about the closure itself and what it means via [**Wololo**](https://wololo.net/2021/03/30/confirmed-sony-to-close-ps3-ps-vita-and-psp-online-stores-this-summer/) and/or [**Modern Vintage Gamer**](https://www.youtube.com/watch?v=hdKsBOwmx_E). Here are ReviveToday, we’re focusing mainly on how this will impact the retro legacy from here-on out. If you want to see the original email from Sony, [we’ve archived a copy here](https://revive.today/static/psn-closure.html).
+If not, you can find **more information** out about the closure itself and what it means via [**Wololo**](https://wololo.net/2021/03/30/confirmed-sony-to-close-ps3-ps-vita-and-psp-online-stores-this-summer/) and/or [**Modern Vintage Gamer**](https://www.youtube.com/watch?v=hdKsBOwmx_E). Here are ReviveToday, we’re focusing mainly on how this will impact the retro legacy from here-on out. If you want to see the original email from Sony, [we’ve archived a copy here](https://files.soupbowl.io/rt/static/psn-closure.html).
 
 ## ❗ Update from PlayStation
 
