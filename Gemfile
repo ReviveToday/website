@@ -6,7 +6,6 @@ gem "jekyll-bootstrap-theme"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
-  gem "jemoji"
   # And (always) last, the sitemap.
   gem "jekyll-sitemap"
 end

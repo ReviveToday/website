@@ -21,7 +21,7 @@ As more consoles get retro-status from the passage of time, we will continue to 
 <div class="container">
 	<div class="row g-2 pb-2 align-items-start">
 		{%- for post in site.posts limit:4 -%}
-		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+		{%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
 		{%- assign sep = forloop.index | modulo: 2 -%}
 		<div class="col">
 			{%- if post.image -%}

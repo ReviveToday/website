@@ -14,13 +14,6 @@ exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock
 theme: jekyll-bootstrap-theme
 bootstrap:
   date_format: "%-d %B %Y"
-  social_links:
-    twitter:   'https://twitter.com/revive_today'
-    instagram: 'https://www.instagram.com/revive_today'
-    discord:   'https://revive.today/discord'
-    github:    'https://github.com/ReviveToday'
-  header_pages:
-    - index.md
 
 excerpts:
   show: true
@@ -44,4 +37,3 @@ defaults:
 
 plugins:
   - jekyll-feed
-  - jemoji
