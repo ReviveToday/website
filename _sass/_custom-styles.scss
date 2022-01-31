@@ -145,8 +145,9 @@ a:hover {
 }
 
 .rt-banner {
-	background-image: url('https://revive.today/wp-content/uploads/2018/07/20161224_231639687_iOS.jpg');
+	background-image: url('/assets/img/20161224_231639687_iOS.webp');
 	background-size: cover;
+	background-position-y: -100px;
 	color: $white;
 	padding-top: 12rem !important;
     padding-bottom: 2rem !important;
