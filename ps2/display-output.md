@@ -46,6 +46,7 @@ For any standard definition TV that supports SCART, this is by far the best purc
 ## High Definition TV
 
 ### Component (YPBPR)
+{: #cable-component }
 
 ![Group of female component ports](/assets/img/port-component.webp)
 {: .article-image-sm }
