@@ -19,3 +19,14 @@ The ReviveToday website, built and composed with **Jekyll** and deployed onto **
 This site is installed onto [CloudFlare pages](https://revivetoday.pages.dev). Custom changes for CloudFlare support:
 
 * `_redirects` file for setting up [Pages-syntax redirections][cr].
+
+## Converting Images to WEBP using ffmpeg
+
+```bash
+# PNG
+for i in *.png; do ffmpeg -i "$i" -lossless 1 "${i%.*}.webp"; done
+# JPEG
+for i in *.jpg; do ffmpeg -i "$i" -lossless 1 -c libwebp "${i%.*}.webp"; done
+# GIF
+for i in *.gif; do ffmpeg -i "$i" -vcodec webp -loop 1 -pix_fmt yuv420p "${i%.*}.webp"; done
+```
