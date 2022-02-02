@@ -127,7 +127,8 @@ a:hover {
 	}
 }
 
-.rt-button {
+.rt-button,
+.btn-primary, .btn-secondary {
 	border: none;
 	background-color: #138e96 !important;
 	border-bottom: solid .2em #0b4e53 !important;
