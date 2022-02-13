@@ -5,7 +5,7 @@ description: >-
   We aim to provide the latest information, tweaks, custom modifications and
   guides for the now broad range of retro consoles and handhelds.
 baseurl: ""
-url: "https://beta.revive.today"
+url: "https://revive.today"
 permalink: /blog/:title:output_ext
 
 include: ['_redirects']
