@@ -11,7 +11,7 @@ permalink: /blog/:title:output_ext
 include: ['_redirects']
 exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock', 'Gemfile']
 
-remote_theme: ReviveToday/Modoki-Lite@porting
+remote_theme: ReviveToday/Modoki-Lite
 bootstrap:
   date_format: "%-d %B %Y"
   header_menu:
