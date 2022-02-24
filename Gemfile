@@ -1,11 +1,12 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
-gem "jekyll-bootstrap-theme"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
+  gem "jekyll-seo-tag"
+  gem "jekyll-remote-theme"
   # And (always) last, the sitemap.
   gem "jekyll-sitemap"
 end
