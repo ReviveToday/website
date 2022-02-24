@@ -11,9 +11,92 @@ permalink: /blog/:title:output_ext
 include: ['_redirects']
 exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock', 'Gemfile']
 
-theme: jekyll-bootstrap-theme
+remote_theme: ReviveToday/Modoki-Lite
 bootstrap:
   date_format: "%-d %B %Y"
+  header_menu:
+  - title: PlayStation
+    menu:
+    - title: PlayStation 2
+      page: ps2/index.md
+      menu:
+      - title: What to Buy
+        page: ps2/what-to-buy.md
+      - title: Display Output
+        page: ps2/display-output.md
+      - title: Softmodding
+        page: ps2/softmodding.md
+      - title: Homebrew Essentials
+        page: ps2/apps/index.md
+      - title: FreeMCBoot Tutorial
+        page: ps2/freemcboot-tutorial.md
+      - title: FreeHDBoot Tutorial
+        page: ps2/freehdboot-tutorial.md
+      - title: Managing Storage
+        page: ps2/storage.md
+      - title: Memory Cards
+        page: ps2/memory-cards.md
+      - title: Controllers
+        page: ps2/controllers.md
+    - title: PlayStation 3 🛠
+      page: ps3/index.md
+      menu:
+      - title: What to Buy
+        page: ps3/what-to-buy.md
+    - title: PlayStation Portable
+      page: psp/index.md
+      menu:
+      - title: What to Buy
+        page: psp/what-to-buy.md
+      - title: Essential Applications
+        page: psp/apps.md
+      - title: Custom Firmware Wizard
+        page: psp/wizard.html
+      - title: Custom Firmware Guide
+        page: psp/cfw/index.md
+      - title: Firmware Downloads
+        page: psp/firmware.md
+      - title: Free DLC
+        page: psp/dlc.md
+      - title: PSP Battery Woes
+        page: psp/battery.md
+      - title: Hardware Mods
+        page: psp/hardware-mods.md
+    - title: PlayStation Vita 🛠
+      page: psvita/index.md
+      menu:
+      - title: What to Buy
+        page: psvita/what-to-buy.md
+      - title: Essential Applications
+        page: psvita/apps.md
+    - title: Xperia Play
+      page: xplay.md
+  - title: Others
+    menu:
+    - title: Free PC Games
+      page: pc/now-free-retro-releases.md
+    - title: Raspberry Pi
+      page: raspberry-pi.md
+    - title: Dreamcast 🛠
+      page: dreamcast/index.md
+    - title: Nintendo DS 🛠
+      page: nds/index.md
+  - title: Support
+    menu:
+    - title: Discord
+      link: https://revive.today/discord
+  - title: Blog
+    page: blog/index.html
+
+  footer_menu:
+  - title: Legal
+    page: dmca-takedown.md
+  - title: Privacy
+    page: privacy-policy.md
+  - title: Progress
+    link: https://revive.today/roadmap
+  - title: Discord
+    link: https://revive.today/discord
 
 excerpts:
   show: true
@@ -36,4 +119,5 @@ defaults:
       image: true
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
