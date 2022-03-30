@@ -24,5 +24,5 @@ The community over at PSX Scene currently actively maintain GSM. This wonderful 
 Alternatively, you can download **0.38** if the website is down, or you are confident you know how to use the ELF.
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/ps2/apps/GSM_038.zip">Download</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/10dcvl--9jmV6ZoNKuuEPnfSDrY9rUzQl/view?usp=sharing">Download</a></p>
 </div>
