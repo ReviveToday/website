@@ -30,11 +30,9 @@ Ensure you download the version that matches your PSP firmware. If your firmware
 {: .rt-alert .warning}
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/620_PRO-C2_14-02-2015.zip">PRO-C2 6.20</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/635_PRO-C2_14-02-2015.zip">PRO-C2 6.35</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/639_PRO-C2_14-02-2015.zip">PRO-C2 6.39</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/660_PRO-C2_14-02-2015.zip">PRO-C2 6.60</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/cfw/PRO/C2/661_PRO-C2_14-02-2015.zip">PRO-C2 6.61</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/191DSI6qGyoTIbz4RtJUyGZp1diusFI02/view?usp=sharing">PRO-C2 6.61</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1eGtXQe0xFvPfBSrsxg1nDbRVR54T9db4/view?usp=sharing">PRO-C2 6.60</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/drive/folders/147ij0-ztudO9xbyU7KGgB2-8YDJfcd04?usp=sharing">Others</a></p>
 </div>
 
 ## Setup

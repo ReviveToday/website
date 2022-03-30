@@ -17,7 +17,7 @@ Pack containing Extra Situations for the game Exit, a puzzle based game in which
 _Credit goes to Redditor [**Notpoe779**](https://www.reddit.com/user/Notpoe779) for the files and installation guide included._
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/exit/Exit-Extra-Situations-DLC.zip">Download (US)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1gZ_XwLeYgNMk41e1iM0vVHCGMOWpU5db/view?usp=sharing">Download (US)</a></p>
 </div>
 
 ### Hot Pixel
@@ -30,8 +30,8 @@ A great minigame collection inspired by the consoles of old, based in a suburban
 _Credit goes to Redditor **[DeltaBladeX](https://www.reddit.com/user/DeltaBladeX)** for discovering this._
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/hotpixel/HotPixel_US_70OnlineGamesPSP.zip">Download (US)</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/hotpixel/HotPixel_EU_70OnlineGamesPSP.zip">Download (EU)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/12BYEE13Wy8G2M0dx1LQntLryV0fVoA_R/view?usp=sharing">Download (US)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1zhQYWPbF3eLySLciX9g8yegssH-HytGe/view?usp=sharing">Download (EU)</a></p>
 </div>
 
 ### Killzone: Liberation
@@ -44,9 +44,9 @@ The famous Killzone series unique to Sony has made its way to the PlayStation Po
 _Credit goes to Redditor **[DeltaBladeX](https://www.reddit.com/user/DeltaBladeX)** for discovering this._
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/killzone/UCUS98646.zip">Download (US)</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/killzone/UCES00279-1.zip">Download (EU)</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/killzone/kzl_unlockables.zip">Unlockables</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1ide1CQcXYmvIsn_AwcFMNybchKQG6F6L/view?usp=sharing">Download (US)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1l7Wso_ycQDpiSXG5oiguSw6y9-6nu1cQ/view?usp=sharing">Download (EU)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1S--V1Do_1FgWPf92ObBRNll8EMBcQLd5/view?usp=sharing">Unlockables</a></p>
 </div>
 
 ### Wipeout Pure
@@ -59,8 +59,8 @@ Stop racing cars around a track and look to the future. Wipeout Pure pits you in
 _Credit goes to Redditor **[bcRIPster](https://www.reddit.com/r/PSP/comments/5be2a6/how_to_download_track_packs_for_wipeout_pure/d9osfm8/)** for discovering this._
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/wipeoutpure/WipeoutSaveData.zip">Download (US)</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/wipeoutpure/wipeout_pure_secret_packs.zip">Promotional (US)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1uhJnFfRH320RGI2ustUSe-yhyVogX-mY/view?usp=sharing">Download (US)</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1fffUINUF-zxnnePcFOiMwTGaR66Iq5B3/view?usp=sharing">Promotional (US)</a></p>
 </div>
 
 ## Utilities
@@ -70,5 +70,5 @@ _Credit goes to Redditor **[bcRIPster](https://www.reddit.com/r/PSP/comments/5be
 A comic reader that let you purchase comics from PlayStation Network and read them right on your PSP device. The network was shut down and the reader download removed, but if you backed up any of your comics you can read them again.
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/dlc/Digital-Comics-2.01.zip">Download</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1uKvLkmHBrQinxEVmp14Sms-ODS9wv6gc/view?usp=sharing">Download</a></p>
 </div>

@@ -46,7 +46,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 				<p><strong>Gameboy Advance</strong></p>
 				<img src="/assets/img/psp-gpsp-logo.webp">
 				<div>
-					<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/UO-gpSP-kai-v3.4-test-4-build-225.zip">Download</a></p>
+					<p class="rt-button"><a href="https://drive.google.com/file/d/1MD35KyTs8OUjqLH7NLGrPPgi4CC4zQdl/view?usp=sharing">Download</a></p>
 				</div>
 				<p>(<span class="text-muted">source</span>)</p>
 			</div>
@@ -59,7 +59,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 				<p><strong>SEGA Master System</strong></p>
 				<img src="/assets/img/psp-sms-logo.webp">
 				<div>
-					<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/smsplus-1.3.1-1.0.zip">Download</a></p>
+					<p class="rt-button"><a href="https://drive.google.com/file/d/1kGHvGITbTEVzdVyLCZq2izFKsq-IIuy1/view?usp=sharing">Download</a></p>
 				</div>
 				<p>(<a href="http://psp.akop.org/smsplus.htm">source</a>)</p>
 			</div>
@@ -70,7 +70,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 				<p><strong>SEGA Mega Drive/Genesis</strong></p>
 				<img src="/assets/img/psp-dgen-logo.webp">
 				<div>
-					<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/DGEN_170_Lite.zip">Download</a></p>
+					<p class="rt-button"><a href="https://drive.google.com/file/d/1Fo4-k9szJLp5SRppvGEDdjISE3abv76_/view?usp=sharing">Download</a></p>
 				</div>
 				<p>(<a href="http://dgen.sourceforge.net/">source</a>)</p>
 			</div>
@@ -88,7 +88,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			<p><strong>Physical Controller Emulator</strong></p>
 			<img src="/assets/img/psp-fusa-logo.webp">
 			<div>
-				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/FusaGamePad.zip">Download</a></p>
+				<p class="rt-button"><a href="https://drive.google.com/file/d/1W3Rys7gK92PMRDJ9mnvyExLwHWIh2t11/view?usp=sharing">Download</a></p>
 			</div>
 			<p>(<span class="text-muted">source</span>)</p>
 		</div>
@@ -97,7 +97,7 @@ All applications have been **tested** on a **PSP 1000** running **6.61**. Your m
 			<p><strong>PSP as Monitor (ADVANCED)</strong></p>
 			<img src="/assets/img/psp-pspdisp-logo.webp">
 			<div>
-				<p class="rt-button"><a href="https://files.soupbowl.io/rt/psp/apps/PSPdisp.zip">Download</a></p>
+				<p class="rt-button"><a href="https://drive.google.com/file/d/1YuXvSKT7Ph_73QJfel50gWG_YD7wjvT5/view?usp=sharing">Download</a></p>
 			</div>
 			<p>(<span class="text-muted">source</span>)</p>
 		</div>

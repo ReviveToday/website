@@ -29,7 +29,7 @@ You also need the following software (all free):
 * uLaunchELF or other ELF launcher (supplied by existing mod).
 
 <div class="text-center">
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/ps2/tools/FMCBInstaller-1.952.zip">Download FreeMCBoot</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1F3t5993N6bEumrkt_CjvqfQBIoopA7zx/view?usp=sharing">Download FreeMCBoot</a></p>
 </div>
 
 The FreeMCBot package comes with a file that ends with .ELF. ELF file are executable by a modified PlayStation system, and in the package provided comes with a FreeMCBoot installer. Unfortunately, that’s why you need a pre-modded console.

@@ -39,7 +39,7 @@ All of these editions can be found in the downloadable ZIP file, including combi
 
 <div class="text-center">
 	<p class="rt-button"><a href="https://github.com/ps2homebrew/Open-PS2-Loader/releases">Official Downloads</a></p>
-	<p class="rt-button"><a href="https://files.soupbowl.io/rt/ps2/apps/OpenPS2Loader_0.9.3.zip">Download</a></p>
+	<p class="rt-button"><a href="https://drive.google.com/file/d/1_Hy5MzDedEQ_J4qEMAh-pnpD3GWuxkRF/view?usp=sharing">Download</a></p>
 </div>
 
 ## Installation
