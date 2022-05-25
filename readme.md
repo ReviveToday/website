@@ -1,7 +1,10 @@
 # ReviveToday Website
 
 <p align="center">
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+  <a href="#"><img alt="Website status" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Frevive.today" /></a>
+  <a href="https://securityheaders.com/?q=revive.today&followRedirects=on"><img alt="Security Headers" src="https://img.shields.io/security-headers?url=https%3A%2F%2Frevive.today" /></a>
+  <a href="https://observatory.mozilla.org/analyze/revive.today"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/revive.today?publish" /></a>
 </p>
 
 ![Screenshot 2022-01-30 at 22 37 01](https://user-images.githubusercontent.com/11209477/151720833-73527e6f-6575-44db-ba2a-f61163db2d99.png)
