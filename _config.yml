@@ -6,7 +6,7 @@ description: >-
   guides for the now broad range of retro consoles and handhelds.
 baseurl: ""
 url: "https://revive.today"
-permalink: /blog/:title:output_ext
+permalink: /blog/:title
 
 include: ['_redirects']
 exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock', 'Gemfile']
