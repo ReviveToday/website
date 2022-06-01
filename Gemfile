@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 4.2.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
@@ -10,6 +10,9 @@ group :jekyll_plugins do
   # And (always) last, the sitemap.
   gem "jekyll-sitemap"
 end
+
+# Crashes without this for some stupid reason.
+gem "webrick"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data
 # gem and associated library.
