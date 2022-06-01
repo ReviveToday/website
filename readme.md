@@ -3,6 +3,7 @@
 <p align="center">
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-black" /></a>
   <a href="#"><img alt="Website status" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Frevive.today" /></a>
+  <a href="https://revive.today/discord"><img alt="Discord" src="https://img.shields.io/discord/823021126199934977?color=%235765f2&logo=discord&logoColor=white"></a>
   <a href="https://securityheaders.com/?q=revive.today&followRedirects=on"><img alt="Security Headers" src="https://img.shields.io/security-headers?url=https%3A%2F%2Frevive.today" /></a>
   <a href="https://observatory.mozilla.org/analyze/revive.today"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/revive.today?publish" /></a>
 </p>
