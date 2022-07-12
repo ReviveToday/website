@@ -8,7 +8,7 @@ baseurl: ""
 url: "https://revive.today"
 permalink: /blog/:title
 
-include: ['_redirects']
+include: ['_redirects', '_headers']
 exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock', 'Gemfile']
 
 remote_theme: ReviveToday/Modoki-Lite
