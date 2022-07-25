@@ -105,10 +105,6 @@ excerpts:
 sass:
   style: compressed
 
-disqus:
-  shortname: retro-playstation
-  show_policy: true
-
 paginate: 5
 paginate_path: "/blog/page/:num/"
 
