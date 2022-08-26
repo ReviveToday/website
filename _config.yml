@@ -5,6 +5,7 @@ description: >-
   We aim to provide the latest information, tweaks, custom modifications and
   guides for the now broad range of retro consoles and handhelds.
 baseurl: ""
+discord: "https://revive.today/discord"
 url: "https://revive.today"
 permalink: /blog/:title
 
