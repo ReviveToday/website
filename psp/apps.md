@@ -11,7 +11,7 @@ Keep in mind if you dont know already that for the following suggestions to work
 Page is still undergoing improvements – please tread with caution.
 {: .rt-alert .warning}
 
-All applications have been **tested** on a **PSP 1000** running **6.61**. Your mileage may vary.
+All applications have been **tested** on a **PSP 100X** running **6.61**. Your mileage may vary.
 {: .rt-alert .info}
 
 ## Emulators

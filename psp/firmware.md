@@ -20,7 +20,7 @@ To install the update you need to do the following:
 
 ## Firmware Downloads
 
-### PSP 1000 / 2000 / 3000
+### PSP 100X / 200X / 300X
 
 <div class="container text-center">
 	<div class="row align-items-start">
@@ -41,7 +41,7 @@ To install the update you need to do the following:
 
 If in doubt, go for 6.60. If you’re on 6.61, you can stay here and still enjoy custom firmware.
 
-### PSP Go (N1000)
+### PSP Go (N100X)
 
 <div class="container text-center">
 	<div class="row align-items-start">
