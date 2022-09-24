@@ -70,7 +70,7 @@ If you’re happy to re-run the software on reboot, then feel free to delete **C
 
 ## (Optional) Making it Permanent
 
-If you have a an older PSP, such as a first or early second generation then you are in luck and this process is super quick. Simply after the reboot occurs and you are in the custom firmware state, run the last of the PRO package, **CIPL Flasher**.
+If you have a an older PSP, such as a PSP 100X or early PSP 200X then you are in luck and this process is super quick. Simply after the reboot occurs and you are in the custom firmware state, run the last of the PRO package, **CIPL Flasher**.
 
 Now this tool will write your custom firmware to the tiny, tiny onboard storage the PSP has for operation. This process is tried and tested, but ensure you follow the on-screen prompts when running it. After installing it, there should be a brief pause and your PSP will reboot into custom firmware mode again.
 

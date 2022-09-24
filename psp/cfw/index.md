@@ -18,7 +18,7 @@ All forms of CFW will mention whether or not they are permanent. A permanent CFW
 
 There is normally a wider choice if you are okay to go down the non-permanent route, but if you intend to use the features of CFW every time you use your PSP, you will need to reinstall the CFW every time you start your PSP, which will become quickly tedious.
 
-Owners of the PSP 1000 and old 2000 versions will find that a majority of the CFW choices out there are permanent. Sony fixed up some of the exploits used to make the CFW permanent in the remainder editions, but for these devices Infinity can be used to simulate permanent CFW.
+Owners of the PSP 100X and old 200X versions will find that a majority of the CFW choices out there are permanent. Sony fixed up some of the exploits used to make the CFW permanent in the remainder editions, but for these devices Infinity can be used to simulate permanent CFW.
 
 So far, the PSP Street (E) is the only device not capable of custom firmware. Correction: As the community have lovingly shared in the Disqus comments, this is **not true**. It’s not capable of **permanent** CFW, which in itself has also had varying successes with Infinity. You always have the option of just not making it permanent and running the package on startup.
 
@@ -112,4 +112,4 @@ To avoid bricking your PSP, make sure you checked your console beforehand, as th
 *   Running out of battery/power during the install process.
 *   Shutting down the PSP during install or flashing (like Windows tells you not to shut down during an update).
 
-Once bricked, unless you have a first generation PSP your best bet is to purchase another one. First gen owners can make or purchase a _Pandora battery_, which will force the PSP into recovery mode and can then restore the damaged firmware.
+Once bricked, unless you have a PSP 100X your best bet is to purchase another one. First gen owners can make or purchase a _Pandora battery_, which will force the PSP into recovery mode and can then restore the damaged firmware.

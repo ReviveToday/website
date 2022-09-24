@@ -10,7 +10,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 <div class="col" markdown="1">
 
-## Generation 1
+## Revision 1 (original)
 
 **PCH-1000**
 
@@ -27,7 +27,7 @@ Decided to give the last-ever Sony handheld a shot? Good call, as the homebrew c
 
 </div><div class="col" markdown="1">
 
-## Generation 2
+## Revision 2 (slim)
 
 **PCH-2000**
 

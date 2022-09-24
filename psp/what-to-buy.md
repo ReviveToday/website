@@ -8,7 +8,7 @@ layout: page
 
 <div class="col" markdown="1">
 
-## 1000
+## 100X
 
 ![PSP 1000 in Piano Black](/assets/img/PSP-1000.webp)
 
@@ -24,7 +24,7 @@ layout: page
 
 </div><div class="col" markdown="1">
 
-## 2000
+## 200X
 
 ![PSP 2000 in Piano Black](/assets/img/PSP-2000.webp)
 
@@ -40,7 +40,7 @@ layout: page
 
 </div><div class="col" markdown="1">
 
-## 3000
+## 300X
 
 ![PSP 3000 in Silver](/assets/img/PSP-3000-Silver.webp)
 
@@ -81,7 +81,7 @@ _\* Pro Duo to MicroSD converters can be used in place, with no detrimental effe
 
 ## Recommendation
 
-If you can grab a **PSP 3000**, you’ll be looking at the best base model you can obtain. This model received significant improvements to the screen so you should not have the common ghosting issue that plagues the older models. If you don’t mind sacrificing features, the original PSP 1000 is incredibly easy to get hold of easily, and often does not cost too much.
+If you can grab a **PSP 300X**, you’ll be looking at the best base model you can obtain. This model received significant improvements to the screen so you should not have the common ghosting issue that plagues the older models. If you don’t mind sacrificing features, the original PSP 100X is incredibly easy to get hold of easily, and often does not cost too much.
 
 The Go arguably has the most exciting features, bringing it quite closely to what the Switch of today can perform. You can connect a Dualshock 3 controller to it natively, and buy a dock that would give you a composite AV output. The trade-offs are obvious, but if you’re happy to [explore custom firmware]({% link psp/cfw/index.md %}) and use ROMs the problems are reduced. Keep in mind that most of the solutions to overcome the **M2 storage medium** involve getting handy with a screwdriver, so if you want more than 16 GB storage without tinkering, you’re better off sticking with the other models.
 
