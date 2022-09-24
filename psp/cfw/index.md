@@ -112,4 +112,4 @@ To avoid bricking your PSP, make sure you checked your console beforehand, as th
 *   Running out of battery/power during the install process.
 *   Shutting down the PSP during install or flashing (like Windows tells you not to shut down during an update).
 
-Once bricked, unless you have a first generation PSP your best bet is to purchase another one. First gen owners can make or purchase a _Pandora battery_, which will force the PSP into recovery mode and can then restore the damaged firmware.
+Once bricked, unless you have a PSP 100X your best bet is to purchase another one. First gen owners can make or purchase a _Pandora battery_, which will force the PSP into recovery mode and can then restore the damaged firmware.

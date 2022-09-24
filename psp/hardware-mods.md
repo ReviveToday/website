@@ -10,7 +10,7 @@ Unfortunately the ease of modifying this system is **not shared with the GO**. T
 
 We will be honouring the wonderful guides already created for this console, so if you have found, or written a guide yourself and want to share it please let us know and we will feature it here.
 
-## PSP 1000 / First generation
+## PSP 100X
 
 ### Change case/shell/housing
 
