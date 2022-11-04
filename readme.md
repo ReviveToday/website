@@ -5,7 +5,7 @@
   <a href="#"><img alt="Website status" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Frevive.today" /></a>
   <a href="https://revive.today/discord"><img alt="Discord" src="https://img.shields.io/discord/823021126199934977?color=%235765f2&logo=discord&logoColor=white"></a>
   <a href="https://securityheaders.com/?q=revive.today&followRedirects=on"><img alt="Security Headers" src="https://img.shields.io/security-headers?url=https%3A%2F%2Frevive.today" /></a>
-  <a href="https://observatory.mozilla.org/analyze/revive.today"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/revive.today?publish" /></a>
+  <a href="https://observatory.mozilla.org/analyze/revive.today"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/revive.today" /></a>
 </p>
 
 ![Screenshot 2022-01-30 at 22 37 01](https://user-images.githubusercontent.com/11209477/151720833-73527e6f-6575-44db-ba2a-f61163db2d99.png)
