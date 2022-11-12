@@ -8,7 +8,7 @@
   <a href="https://observatory.mozilla.org/analyze/revive.today"><img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/grade-score/revive.today" /></a>
 </p>
 
-![A picture of a phone displaying the ReviveToday website, in front of a computer display with the website visible](https://user-images.githubusercontent.com/11209477/201173980-695203be-b578-45a2-a821-de464b805040.png)
+![A picture of a phone displaying the ReviveToday website, in front of a computer display with the website visible](https://soupbowl.io/assets/img/devices-revivetoday.webp)
 
 The ReviveToday website, built and composed with **Jekyll** and deployed onto **GitHub Pages**. Theme is **[Modoki Lite](https://github.com/ReviveToday/Modoki-Lite)**.
 
