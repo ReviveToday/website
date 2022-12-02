@@ -86,6 +86,8 @@ bootstrap:
     menu:
     - title: Discord
       link: https://revive.today/discord
+    - title: Contact Us
+      link: https://revive.today/contact
   - title: Blog
     page: blog/index.html
 
