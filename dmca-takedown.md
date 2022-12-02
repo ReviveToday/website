@@ -11,7 +11,7 @@ Due to the nature of the content of this site, we understand that the tools and 
 
 Please understand that this website is not operated as part of a business or organisation. This website is run by an individual, and as such instantaneous responses is not a service we can provide. Please be understanding of this when filing a request, we will endeavor to respond as soon as we can possibly verify and react to the request. Requests should be dealt with swiftly, but can take a long time to be processed due to the single-manned nature.
 
-Should you wish to file a Digital Millennium Copyright Act (DMCA) takedown request, please email [admin@revive.today](mailto:admin@revive.today) with the subject starting ‘\[DMCA\] …’ detailing your request. We will need you to provide the following details:
+Should you wish to file a Digital Millennium Copyright Act (DMCA) takedown request, please [visit the Contact Us form](https://revive.today/contact) and select 'DMCA', and detail your request. We will need you to provide the following details:
 
 *   The company or organisation you belong to, or are representing.
 *   The Copyright law(s) of which have been breached.

@@ -122,7 +122,7 @@ Yet to install CFW on your PS Vita? Vita Hacks Guide has the best installer guid
 	</div>
 </div>
 
-❓ _Missing anything? [Let us know](mailto:admin@revive.today)._
+❓ _Missing anything? [Let us know](https://revive.today/contact)._
 
 ## Installing Vita Applications
 

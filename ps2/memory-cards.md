@@ -9,7 +9,7 @@ Only after spending time on the homebrew communities did I find what the secret 
 
 ## Compressed Memory
 
-This is always a speculated topic on the matter (please [let me know](mailto:admin@revive.today) otherwise). Some cards use a technology called compression to achieve more storage on similar hardware. Compressing data is (in the case of a zip file) when parts of data which is similar to other parts in a container are merged, Simlarly some of the cards will try and compress the savegames so that more can fit on the card. While this isn’t an inherently bad idea, this will cause the system to slow down noticeably, and the higher the storage amount of the worse performance will be. Most games will take this on the chin (Sims 2 is slow on an official 8mb, with a high capacity be prepared to wait a long time), but means the ‘do not remove the card of turn off the console’ space of time is extended for a long time.
+This is always a speculated topic on the matter (please [let me know](https://revive.today/contact) otherwise). Some cards use a technology called compression to achieve more storage on similar hardware. Compressing data is (in the case of a zip file) when parts of data which is similar to other parts in a container are merged, Simlarly some of the cards will try and compress the savegames so that more can fit on the card. While this isn’t an inherently bad idea, this will cause the system to slow down noticeably, and the higher the storage amount of the worse performance will be. Most games will take this on the chin (Sims 2 is slow on an official 8mb, with a high capacity be prepared to wait a long time), but means the ‘do not remove the card of turn off the console’ space of time is extended for a long time.
 
 ## Filesystem Corruption
 

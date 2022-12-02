@@ -14,7 +14,7 @@ Issue submissions of the following nature are appreciated (ensure they're tagged
 - Fixes and amendments to articles.
 - Website bug reports.
 
-Queries outside of these are better off [emailed to the website owner][rte].
+Queries outside of these are better off [raised on the ReviveToday Discord][rte].
 
 ### Pull Requests
 
@@ -31,5 +31,5 @@ Articles are to be written in [an active tone](https://monzo.com/tone-of-voice/)
 There is ongoing work to provide contribution attribution via a JavaScript widget at the footer of articles. This has yet to be completed.
 
 [rt]:  https://revive.today
-[rte]: mailto:admin@revive.today
+[rte]: https://revive.today/discord
 [l]:   http://creativecommons.org/licenses/by-nc-sa/4.0/

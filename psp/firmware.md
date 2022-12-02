@@ -54,4 +54,4 @@ If in doubt, go for 6.60. If you’re on 6.61, you can stay here and still enjoy
     </div>
 </div>
 
-If you have any firmware versions not listed above, [please send a zipped copy of the EBOOT to us](mailto:admin@revive.today).
+If you have any firmware versions not listed above, [discuss this with us on the ReviveToday Discord](https://revive.today/discord).
