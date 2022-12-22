@@ -20,7 +20,7 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 
     - name: 🚛 Publish Site
-      uses: cloudflare/pages-action@1
+      uses: cloudflare/pages-action@v1.3.0
       with:
         apiToken: ${{ secrets.CF_API_TOKEN }}
         accountId: ${{ secrets.CF_ACCOUNT_ID }}
