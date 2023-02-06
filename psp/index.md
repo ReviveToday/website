@@ -28,7 +28,7 @@ In the later half of 2014, the PSP legacy came to an end when the console was of
 
 ## External Guides
 
-* [Hackinformer CFW Guide](http://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html) – Console and firmware specific guidelines on which custom firmware would be the easiest, and most convenient for your PSP.
+* [PSP-Cult CFW Guide](https://sites.google.com/view/psp-cult/cfw-hacking-guide) – A popular guide for PSP that includes guides that go into further details than these, run by Discord contributor PSP-Cult.
 
 ## Communities
 

@@ -26,7 +26,7 @@ So far, the PSP Street (E) is the only device not capable of custom firmware. Co
 
 ### Deciding on your Custom Firmware
 
-All devices (but Street) are capable of custom firmware, but not all of them are as straightforward as the PSP 1000. You can use our wizard or the Hackinformer site to specify your PSP and discover which process will work for yours.  
+All devices are capable of custom firmware, but not all of them are as straightforward as the PSP 1000. You can use our wizard to specify your PSP and discover which process will work for yours.  
 
 <div class="container text-center">
 	<div class="row align-items-start">
@@ -34,7 +34,6 @@ All devices (but Street) are capable of custom firmware, but not all of them are
             <div>
 				<p class="rt-button"><a href="{% link psp/wizard.html %}">Custom firmware wizard</a></p>
 			</div>
-            <p><a href="https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html">Original Hackinformer version</a></p>
         </div>
     </div>
 </div>
@@ -78,7 +77,7 @@ Depends on what you want. What you’ve _really_ done is rebooted your PSP into 
 
 This isn’t as nefarious as it sounds. Some custom firmwares (PRO for one) will allow you to make the cfw _permanent_ if your PSP supports it. This doesn’t mean you’re stuck with it whether you like it or not. Instead of having to manually boot the PRO firmware, a utility will write it to a secret portion of the PSP that controls the start-up process. This means when your PSP boots up, it will run the cfw instantly instead of needing manual activation.
 
-What are the benefits? If you use a large memory card that official firmware cannot detect, it will more likely be detected on boot by the custom firmware. You no longer need to open up fast recovery, or even keep any of the custom firmware utilities on your PSP. However, your PSP must be able to support this as certain models do not. The Hackinformer guide will inform you whether this process is compatible with your PSP.
+What are the benefits? If you use a large memory card that official firmware cannot detect, it will more likely be detected on boot by the custom firmware. You no longer need to open up fast recovery, or even keep any of the custom firmware utilities on your PSP. This ability is available for **all PSPs**, with older models supporting permanent flashing via CIPL, and all models supporting Infinity.
 
 If your device is capable as pointed out by the wizard, open up the CIPL Flasher utility that came with your custom firmware, and once a black screen with white text opens, press the button that corresponds with ‘install CIPL’. Once done, it will reboot your PSP. Now if you go to system > System Information on your PSP, it should now say you are running the custom firmware you desired. Even without opening the fast recovery utility!
 

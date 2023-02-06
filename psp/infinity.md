@@ -6,10 +6,10 @@ layout: page
 ![](/assets/img/rocket-psp.webp)
 {: .article-image }
 
-There are quality issues with this article, and is [pending review](https://github.com/ReviveToday/website/issues/4). For now, it is recommended to follow the [Mr Mario video on the subject](https://youtu.be/HsfSaDsswUo).
+There are quality issues with this article, and is [pending review](https://github.com/ReviveToday/website/issues/4). For now, it is recommended to follow the [PSP cult guide](https://sites.google.com/view/psp-cult/cfw-hacking-guide) or the [Mr Mario video on the subject](https://youtu.be/HsfSaDsswUo).
 {: .rt-alert .warning}
 
-Infinity has roots in custom firmware, but is not – in itself – a custom firmware. Instead, it grants your PSP the ability to turn into Buzz Lightyear install ‘hybrid’ custom firmwares instead of just one. And due to the special nature of operations, it can **make CFW for all (but street) PSP’s permanent!**
+Infinity has roots in custom firmware, but is not – in itself – a custom firmware. Instead, it grants your PSP the ability to turn into Buzz Lightyear install ‘hybrid’ custom firmwares instead of just one. And due to the special nature of operations, it can **make CFW for all PSP’s permanent!**
 
 Unless you’re interested by such concept, you’ve likely come here because you have a restricted PSP 200X, 300X or Go, as they can’t simply install a standard custom firmware by themselves.
 
