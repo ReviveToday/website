@@ -77,7 +77,7 @@ If you were keen on more advanced offerings that came with the PlayStation, they
 
 ## 🤫 Best Model for Custom Firmware
 
-**Phats** (and early **Slim** models) are the most flexible for custom firmware, but **[all models can use PS3HEN](https://youtu.be/xGS_Ryx_7r8)**. We’ll cover custom firmware soon, but the best resource for these type of questions currently is the [PS3homebrew Wiki on Reddit](https://www.reddit.com/r/ps3homebrew/wiki/index).
+**Phats** (and early **Slim** models) are the most flexible for custom firmware, but **[all models can use PS3HEN](https://youtu.be/xGS_Ryx_7r8)**. We’ll cover custom firmware soon, but the best resource for these type of questions currently is the [ConsoleMods.org Wiki on Reddit](https://consolemods.org/wiki/PS3:PS3_Mods_Wiki).
 
 ## ☠ Yellow Light of Death
 
@@ -90,17 +90,18 @@ While the Xbox 360 was famous for the three **Red Ring of Death**, the PlayStati
 
 A shared common fault between the 360 and the PS3 was **heat**. Extended gaming sessions or badly ventilated areas would naturally cause the console to heat up. Over time, this could **stress** out the **solder joints**. These ‘joints’ are what connects electrical components together, and stressed out joints equals bad connections. And fixing these stressed joints is **console repairman-level fixes**. The fix was always to **reball** the motherboard – basically, give it a quick pop in the oven and bake it into a Raspberry Pi. This would melt all the solder in your console, and hopefully – cool it right back into place. To be clear, this **not recommended** as you’re not _fixing_ the problem. You’re basically slapping a band-aid on your leg, then sticking your leg in the oven.
 
-Another break-through, PS3 phat-specific discovery for some YLOD issues was the **NEC Tokins**. Simply put, they’re **flat capacitors**. The problem was that a lot of community hardware hackers discovered they had a tendency to fail. This was especially noticeable by those who tried the original method and found it worked _temporarily_. Because baking your motherboard reset the balls and often the Tokins, you didn’t actually _fix_ the initial issue – round-and-round we go!
+Another break-through, PS3 phat-specific discovery for some YLOD issues was the **NEC Tokins**. Simply put, they’re **flat capacitors**. The problem was that a lot of community hardware hackers discovered they had a tendency to fail. This was especially noticeable by those who tried the original method and found it worked _temporarily_. Because baking your motherboard reset the solder joint balls and often the Tokins, you didn’t actually _fix_ the initial issue – round-and-round we go!
 
 The modern fixes for older PlayStation 3’s are (in order):
 
-1. **Re-apply the thermal paste** (Sony was apparently famous for using poor-quality compounds).
-   * No YLOD, but happy to get hands on? **Do this anyway** – Thermal compound expires!
-2. (modded consoles) use **webMANs**‘ version of fan control, or set the fan to run at a fixed high speed (40-50 should be sufficient).
+1. **Re-apply the thermal paste** (Thermal compound can degrade over time, but the amount differs for all consoles).
+   * Keep an eye on temperatures to work out if this is needed. Generally speaking it might be required if you find your console is getting very hot (above 60-70°C during gameplay). Bear in mind you might find that cleaning your PS3 will be sufficient, but if you plan on **deep cleaning**, you'll need to detach the heatsink and at that point, you might as well do it anyway.
+2. (modded consoles) use **webMANs**‘ version of fan control, or set the fan to run at a fixed minimum speed (40-50 minimum should be sufficient).
 3. (advanced) [Replace/bypass the NIC Tokins with Tantalum capacitors](https://www.psx-place.com/threads/tutorial-research-nec-tokin-capacitors-replacement-ylod-fix.25260/) (you **need a lot** of soldering equipment & patience).
+   * This becomes a **requirement** if you find you are getting a constant yellow light upon boot (YLOD mentioned above).
 4. Air-condition your room to 15°C and/or play in the Arctic.
 5. [Water cool your PS3](https://www.gearfuse.com/water-cooled-ps3-someone-was-bound-to-do-it/) (Linus would be proud).
 
-As a fortunate owner of a phat that does not suffer from the YLOD, I’ve found great success in simply **ramping up the fan speed** to a fixed setting of 45. Unfortunately this does make the console sound loud, but it’s a fair trade-off for a broken, non-functional console.
+As a fortunate owner of a phat that does not suffer from the YLOD, I’ve found great success in simply **ramping up the fan speed (set a minimum of 40%)** and **keeping the console and surrounding areas clean and free**. Unfortunately this does make the console sound loud, but it’s a fair trade-off for a broken, non-functional console.
 
 The problem primarily affected the **PS3 Phat**. Unfortunately some generations of the **Slim** can experience similar problems, especially as they age. Later generation models of **Slim** and **Super Slim** are much less susceptible to it, so long as there is good ventilation around the unit. In short, for YLOD – **the newer, the better**.
