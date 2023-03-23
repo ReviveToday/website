@@ -6,49 +6,41 @@ layout: page
 ![](/assets/img/rocket-psp.webp)
 {: .article-image }
 
-There are quality issues with this article, and is [pending review](https://github.com/ReviveToday/website/issues/4). For now, it is recommended to follow the [PSP cult guide](https://sites.google.com/view/psp-cult/cfw-hacking-guide) or the [Mr Mario video on the subject](https://youtu.be/h-pZeWV5Q8E).
-{: .rt-alert .warning}
+The age old process for making custom firmware permanent in older models was to use **IPL Patching**. Unfortunately, Sony patched this process on certain **PSP 2000** models and beyond, and made it an unavailable route. In comes the [PSP homebrew famed developer **Davee**](https://lolhax.org/), who created **Infinity** - a tool to enable permanent custom firmware on **all models** of PSP!
 
-Infinity has roots in custom firmware, but is not – in itself – a custom firmware. Instead, it grants your PSP the ability to turn into Buzz Lightyear install ‘hybrid’ custom firmwares instead of just one. And due to the special nature of operations, it can **make CFW for all PSP’s permanent!**
-
-Unless you’re interested by such concept, you’ve likely come here because you have a restricted PSP 200X, 300X or Go, as they can’t simply install a standard custom firmware by themselves.
-
-If you own a PSP Street, unfortunately you are out of luck with installing Infinity or a permanent cfw. Doesn’t stop you from [_running_ one though]({% link psp/cfw/index.md %}).
-
-A great big **thank you** to [Davee](https://lolhax.org/), the developer behind this amazing tool. If not for his work, the only solution for newer PSPs would be to run the exploit on each boot. Thank you!
+A great big **thank you** to [Davee](https://lolhax.org/), the developer behind this amazing tool.
 
 ## Is it risky to install?
 
-If you follow instructions to the letter, no. However you will be modifying essential PSP files so there is a slight chance of turning your PSP into a paperweight.
+If you follow instructions to the letter, no. However you will be modifying essential PSP files so there is always a slight chance of turning your PSP into a paperweight.
 
-Precautions to take are to make sure you **fully understand** the guide. Feel free to message me if something isn’t clear, or have a look at the many other guides out there on the internet.
+Precautions to take are to make sure you **fully understand** the guide. If you don't feel fully comfortable to proceed, then there are many other guides available to follow along with - at the same time or instead of. Check out the **Other Guides** segment below.
 
-**AC Power**, big ol’ battery pack, whatever – do not rely on the PSP battery for this! In the current years PSP batteries are often as reliable as a car with no fuel, so don’t take any chances. As Windows always says – Do not turn off your device!
+Following any guide, make sure you have a **sustainable source of power**. Ideally this should be a **PSP Power Supply**, or a USB charger that provides a strong enough power output. This doesn't take a long time to do, but power outages during certain steps could brick your device.
 
 ## I already have _permanent_ CFW, can I install this?
 
-Yes, but you _must_ uninstall the permanent state of your CFW first. Head on over to the ME or [PRO]({% link psp/cfw/pro.md %}) pages to check out how, but keep the package you download to uninstall the permanent CFW, as you can use these with Infinity instead.
+Yes, but you _must_ uninstall the permanent state of your CFW first. Head on over to the [PRO]({% link psp/cfw/pro.md %}) pages to check out how, but keep the package you download to uninstall the permanent CFW, as you can use these with Infinity instead.
 
 ## Do I _Need_ it?
 
 If you are one of the unfortunate people to have a PSP with restrictive hardware, then yes – **unless** you don’t mind running the cfw exploit **on every reboot**. If you already have permanent CFW, then strictly speaking you do not need this. The differences between LME and PRO cfw is relatively insignificant, so unless you want to try out both CFWs then you don’t need it.
 
-## How do I install it?
+If you need help deciding, then check out the [PSP Custom Firmware wizard]({% link psp/wizard.html %}) page for guidance.
 
-There is a chance of bricking your PSP. Please back up before proceeding, and only attempt this if you are certain. Give a shout in the comment box below if you need help!
-{: .rt-alert .warning}
+## How do I install it?
 
 You will be needing:
 
 *   [PSP]({% link psp/index.md %}) (any version, **excluding** Street).
-*   Latest [Sony Official firmware]({% link psp/firmware.md %}) (6.61, or 6.60).
+*   [Sony Official firmware]({% link psp/firmware.md %}) (6.61 or 6.60).
 *   USB Data Transfer cable, or a card reader.
 *   Latest Infinity version (link below).
 *   Latest custom firmware release (covered the in article).
 *   Latest Chronoswitch (optional, for removing existing CFW/mods).
 *   Form of external power (optional, but recommended).
 
-Here you can download Infinity. Please choose the right version for your PSP.
+Here you can download Infinity. Make sure to choose the right version for your PSP.
 
 <div class="text-center">
 	<p class="rt-button"><a href="https://infinity.lolhax.org/">Infinity</a></p>
@@ -57,15 +49,22 @@ Here you can download Infinity. Please choose the right version for your PSP.
 
 _Chronoswitch is optional. OFW also needed (covered below)_
 
-If you prefer a video installation, there’s a fantastic [step-by-step video on YouTube here](https://youtu.be/HsfSaDsswUo).
+### Other Guides
+
+In the interest of making sure everyone can get Infinity setup, these are some community recommended alternative guides you can use to help install Infinity. If you find this guide hard to follow, or you wish to verify steps before proceeding, then check out these guides.
+
+* Infinity installation is covered in Discord Member [**PSP-Cult's** guide on all-things PSP](https://sites.google.com/view/psp-cult/cfw-hacking-guide).
+* If you prefer a video installation, there’s a fantastic [step-by-step video on YouTube by **MrMario2011**](https://youtu.be/h-pZeWV5Q8E).
+
+Know of other good guides to list? Let us know in the Discord server.
 
 ## Replace official firmware (optional)
 
-This step is optional for those with an already modded/infinity PSP. What this will do is restore your PSP to a vanilla state by **forcing** the PSP installer to run. If you are running 6.60, you could simply grab the 6.61 update file and install that for the same effect.
+This step is optional for those with an already modded/infinity PSP. What this will do is restore your PSP to a vanilla state by **forcing** the PSP installer to run.
 
-**We recommend installing 6.61**, the latest firmware. There’s absolutely no reason to keep 6.60, but the guide will still work if you substitute 6.60 in place of .61.
+Whether you install firmware 6.60 or 6.61 is your choice. **The recommended version is 6.60**, but generally speaking there's a wider range of community support for models running on PSP 6.60, but if you have to install 6.61 then you should be fine to proceed.
 
-You will need to download a copy of the 6.61 updater. [Head over to our firmware downloads]({% link psp/firmware.md %}) page to grab the copy you need. **Download the firmware relevant to your PSP** otherwise you may cause damage to your device.
+You will need to download a copy of the 6.60 or 6.61 updater. [Head over to our firmware downloads]({% link psp/firmware.md %}) page to grab the copy you need. **Download the firmware relevant to your PSP** otherwise you may cause damage to your device.
 
 You should now have a copy of **Chronoswitch v7** and your **PSP update zip**. If so, plug in your PSP and switch it into USB transfer mode.
 
