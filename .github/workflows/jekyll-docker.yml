@@ -24,6 +24,6 @@ jobs:
       with:
         apiToken: ${{ secrets.CF_API_TOKEN }}
         accountId: ${{ secrets.CF_ACCOUNT_ID }}
-        projectName: rvt
+        projectName: revivetoday
         directory: ./_site
         gitHubToken: ${{ secrets.GITHUB_TOKEN }}
