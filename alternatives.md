@@ -24,7 +24,7 @@ The updates and progress has been slow on this site, leading to information bein
 * For modding the Vita, [Vita Hacks Guide](https://vita.hacks.guide/) is recommended. 
 * Vita Homebrew has a massive community on [Reddit under r/Vitahacks](https://www.reddit.com/r/vitahacks/).
 
-# PlayStation 3
+## PlayStation 3
 
 * For video guides I recommend a combination of [MrMario2011](https://www.youtube.com/results?search_query=mrmario2011+ps3) and [ModdedWarfare](https://www.youtube.com/results?search_query=moddedwarfare+ps3).
 * [PS3 Subreddit](https://www.reddit.com/r/PS3) for general use, and the [PS3 Hacks Subreddit](https://www.reddit.com/r/ps3homebrew/) for Homebrew.
