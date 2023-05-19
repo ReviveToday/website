@@ -74,6 +74,8 @@ bootstrap:
       page: xplay.md
   - title: Others
     menu:
+    - title: Alternatives
+      page: alternatives.md
     - title: Free PC Games
       page: pc/now-free-retro-releases.md
     - title: Raspberry Pi
