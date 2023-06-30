@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  <style>
+    html, body {
+      max-width: 100%;
+    }
+
+    body {
+      background: rgb(234, 156, 6);
+      background: linear-gradient(180deg, rgb(234, 92, 6) 0%, rgb(246, 251, 145) 100%);
+      background-attachment: fixed;
+      font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+      font-size: 1rem;
+      height: 100vh;
+      color: #212529;
+    }
+
+    a {
+      color: #138e96;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #138e96;
+      text-decoration: underline;
+    }
+
+    h1 {
+      margin-top: 40px;
+    }
+
+    .container {
+      width: 50%;
+      padding: 5px;
+      margin: 65px 0 25px 0;
+      border-radius: 5px;
+      background-color: #ffffff;
+      border: 1px solid #dadada;
+      overflow-y: hidden;
+    }
+
+    .container:before {
+      content: "";
+      background-image: url("assets/img/logo.webp");
+      width: 100px;
+      height: 100px;
+      position: absolute;
+      top: 5px;
+      left: 25px;
+      z-index: 50;
+      background-size: contain;
+    }
+
+    footer img {
+      max-width: 80%;
+      position: fixed;
+      right: 25px;
+      bottom: 25px;
+      z-index: -5;
+    }
+
+    footer:after {
+      content: "";
+      background-color: white;
+      width: 500px;
+      height: 500px;
+      border-radius: 250px;
+      position: fixed;
+      right: 0;
+      top: 100vh;
+      z-index: -15;
+    }
+
+    footer:before {
+      content: "";
+      height: 40rem;
+      left: 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background: url("assets/img/hills.svg") center bottom repeat-x;
+      z-index: -10;
+    }
+
+    @media only screen and (max-width: 600px) {
+      .container {
+        width: 90%;
+      }
+
+      footer {
+        height: 250px;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>{{ page.title | escape }}</h1>
+    {{ content }}
+  </div>
+  <footer>
+    <img src="assets/img/peeps.svg" />
+  </footer>
+
+</body>
+
+</html>

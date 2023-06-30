@@ -9,7 +9,7 @@ discord: "https://revive.today/discord"
 url: "https://revive.today"
 permalink: /blog/:title
 
-include: ['_redirects', '_headers']
+include: ['_redirects', '_headers', 'robots.txt']
 exclude: ['.github', 'README.md', 'LICENSE', 'docker-compose.yml', 'Gemfile.lock', 'Gemfile']
 
 remote_theme: ReviveToday/Modoki-Lite
