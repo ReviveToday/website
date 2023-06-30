@@ -1,5 +1,7 @@
 # ReviveToday Website
 
+**Thank you for the wonderful memories over these 7 years - the site has now ended, [read more](https://web.archive.org/web/2/https://revive.today/blog/goodbye-from-revivetoday)**
+
 <p align="center">
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-black" /></a>
   <a href="#"><img alt="Website status" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Frevive.today" /></a>
