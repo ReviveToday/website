@@ -7,7 +7,7 @@ After seven years of running ReviveToday, a website dedicated to preserving the 
 
 In this time, there has been an incredible boom of guides and communities appearing that provide significantly better support than I could ever achieve now. I am gadly happy to hand the reigns over to these many communities that work to ensure this information is up to date.
 
-For more information, please see the [closing blog post]({% link _posts/2023-06-30-goodbye-from-revivetoday.md %}).
+For more information, please see the [closing blog post](https://web.archive.org/web/2/https://revive.today/blog/goodbye-from-revivetoday).
 
 ## Alternatives
 
